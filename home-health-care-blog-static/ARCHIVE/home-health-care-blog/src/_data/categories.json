@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Skilled Nursing",
+    "slug": "skilled-nursing",
+    "description": "Nurse-led care at home for complex conditions, wound healing, medication management, and recovery.",
+    "intro": "Skilled nursing care keeps healing on track at home with regular assessments, medication support, and hands-on procedures."
+  },
+  {
+    "title": "Physical Therapy",
+    "slug": "physical-therapy",
+    "description": "Movement, strength, and balance programs tailored to home goals and safety needs.",
+    "intro": "Our physical therapists rebuild strength and balance with simple routines that fit any living room."
+  },
+  {
+    "title": "Occupational Therapy",
+    "slug": "occupational-therapy",
+    "description": "Daily living skills, adaptive equipment, and home modifications that boost independence.",
+    "intro": "Occupational therapists rework daily routines with safer setups, smart tools, and caregiver coaching."
+  },
+  {
+    "title": "Speech Therapy",
+    "slug": "speech-therapy",
+    "description": "Communication, swallowing, and cognitive support during home health episodes.",
+    "intro": "Speech therapists guide families through clear, friendly exercises for voice, swallowing, and thinking skills."
+  },
+  {
+    "title": "Medical Social Work",
+    "slug": "medical-social-work",
+    "description": "Care coordination, emotional support, and community resources for families.",
+    "intro": "Medical social workers organize services, lead tough talks, and connect you with financial and emotional support."
+  },
+  {
+    "title": "Home Health Aide",
+    "slug": "home-health-aide",
+    "description": "Personal care routines, bathing, dementia support, and caregiver relief.",
+    "intro": "Home health aides bring calm, respectful support for personal care and daily routines."
+  },
+  {
+    "title": "Care Planning & Medicare",
+    "slug": "care-planning-medicare",
+    "description": "Everything you need to navigate Medicare rules, care plans, and recertification steps.",
+    "intro": "Understand Medicare rules, paperwork, and scheduling so services start fast and stay active."
+  },
+  {
+    "title": "Safety & Equipment",
+    "slug": "safety-equipment",
+    "description": "Home modifications, assistive devices, and emergency planning for safer living spaces.",
+    "intro": "Safety experts share equipment checklists and home modifications to prevent falls and protect skin."
+  }
+]

@@ -1,0 +1,63 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+<section class="hero">
+  <div class="container">
+    <h1 class="hero__title">Latest Articles</h1>
+    <p class="hero__dek">Trusted, easy-to-read guides for navigating home health care services, Medicare rules, and in-home safety.</p>
+    <form class="search-form" role="search" action="/search/">
+      <label for="site-search" class="visually-hidden">Search the blog</label>
+      <input id="site-search" name="q" type="search" placeholder="Search for services, Medicare, therapy..." required>
+      <button type="submit">Search</button>
+    </form>
+  </div>
+</section>
+
+<section class="feed container">
+  <div class="feed__filters">
+    <h2 class="sr-only">Filter by category</h2>
+    <div class="chip-group">
+      {% for category in categories %}
+      <a class="chip" href="/category/{{ category.slug }}/">{{ category.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="feed__grid">
+    {% for post in pagination.items %}
+      {% include "partials/post-card.njk" with post %}
+    {% endfor %}
+  </div>
+
+  <nav class="pagination" aria-label="Pagination">
+    {% if pagination.href.previous %}
+      <a class="pagination__link" rel="prev" href="{{ pagination.href.previous }}">Previous</a>
+    {% endif %}
+    <span class="pagination__status">Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages | length }}</span>
+    {% if pagination.href.next %}
+      <a class="pagination__link" rel="next" href="{{ pagination.href.next }}">Next</a>
+    {% endif %}
+  </nav>
+</section>
+
+<aside class="sidebar container" aria-label="Helpful resources">
+  <section class="card">
+    <h2>Popular Topics</h2>
+    <ul>
+      {% for tag in collections.tagsList | slice(0,6) %}
+        <li><a href="/tag/{{ tag | slug }}/">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  <section class="card">
+    <h2>Need care coordination?</h2>
+    <p>Our intake nurse can walk through Medicare eligibility, schedule visits, and answer your questions.</p>
+    <a class="button" href="/contact/">Request a Free In-Home Assessment</a>
+  </section>
+  <section class="card">
+    <h2>About Us</h2>
+    <p>We are a Medicare-certified home health team serving families with skilled nursing, therapy, and social work support.</p>
+    <a class="button button--ghost" href="/about/">Learn more</a>
+  </section>
+</aside>
+{% endblock %}

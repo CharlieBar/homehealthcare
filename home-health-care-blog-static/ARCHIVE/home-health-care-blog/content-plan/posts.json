@@ -1,0 +1,1443 @@
+[
+  {
+    "title": "Skilled Nursing at Home: What to Expect, Costs, and Medicare Coverage",
+    "slug": "skilled-nursing-at-home-guide",
+    "category": "Skilled Nursing",
+    "tags": [
+      "medicare",
+      "wound-care",
+      "post-op",
+      "care-plan"
+    ],
+    "targetKeyword": "skilled nursing at home",
+    "secondaryKeywords": [
+      "home skilled nursing care",
+      "medicare home health benefits",
+      "in-home wound care"
+    ],
+    "metaDescription": "Clear, friendly guide to skilled nursing at home—services, costs, Medicare rules, and how to qualify.",
+    "readingGoal": "8-10 min",
+    "heroImage": "skilled-nursing-hero.jpg",
+    "inlineImages": [
+      "medicare-eligibility-diagram.png",
+      "wound-care-steps-illustration.png"
+    ],
+    "author": "Staff Clinician",
+    "status": "draft",
+    "linksTo": [
+      "medicare-home-health-eligibility",
+      "post-op-care-at-home-checklist",
+      "wound-care-at-home-basics"
+    ]
+  },
+  {
+    "title": "Wound Care at Home: Dressing Types, Red Flags, and When to Call the Nurse",
+    "slug": "wound-care-at-home-basics",
+    "category": "Skilled Nursing",
+    "tags": [
+      "wound-care",
+      "infection-prevention",
+      "education"
+    ],
+    "targetKeyword": "wound care at home",
+    "secondaryKeywords": [
+      "in-home wound care",
+      "dressing change steps",
+      "signs of infection"
+    ],
+    "metaDescription": "Simple wound care instructions for families, including dressing types, warning signs, and nurse follow-up tips.",
+    "readingGoal": "9-11 min",
+    "heroImage": "wound-care-dressing-hero.jpg",
+    "inlineImages": [
+      "wound-stages-chart.png",
+      "dressing-change-supplies-photo.jpg"
+    ],
+    "author": "Staff Clinician",
+    "status": "draft",
+    "linksTo": [
+      "skilled-nursing-at-home-guide",
+      "chronic-condition-skilled-nursing",
+      "medicare-home-health-eligibility"
+    ]
+  },
+  {
+    "title": "IV Therapy at Home: Safety Steps and How Nurses Prepare Families",
+    "slug": "home-iv-therapy-safety",
+    "category": "Skilled Nursing",
+    "tags": [
+      "iv-therapy",
+      "infection-prevention",
+      "caregiver-training"
+    ],
+    "targetKeyword": "home iv therapy",
+    "secondaryKeywords": [
+      "iv therapy safety",
+      "in-home infusion",
+      "preventing iv infections"
+    ],
+    "metaDescription": "Learn how home health nurses set up safe IV therapy, teach families, and monitor for complications.",
+    "readingGoal": "8-9 min",
+    "heroImage": "iv-therapy-home-hero.jpg",
+    "inlineImages": [
+      "iv-setup-checklist.png",
+      "flush-technique-diagram.png"
+    ],
+    "author": "Staff Clinician",
+    "status": "draft",
+    "linksTo": [
+      "skilled-nursing-at-home-guide",
+      "wound-care-at-home-basics",
+      "post-op-care-at-home-checklist"
+    ]
+  },
+  {
+    "title": "Post-Op Care at Home Checklist: Nurse Tips for a Smooth Recovery",
+    "slug": "post-op-care-at-home-checklist",
+    "category": "Skilled Nursing",
+    "tags": [
+      "post-op",
+      "infection-prevention",
+      "pain-management"
+    ],
+    "targetKeyword": "post op care at home",
+    "secondaryKeywords": [
+      "surgical recovery home health",
+      "incision care",
+      "post-surgery checklist"
+    ],
+    "metaDescription": "Step-by-step post-op care checklist covering pain control, incision care, and when to call your nurse.",
+    "readingGoal": "8-10 min",
+    "heroImage": "post-op-care-home-hero.jpg",
+    "inlineImages": [
+      "incision-care-guide.png",
+      "medication-tracker-template.png"
+    ],
+    "author": "Staff Clinician",
+    "status": "draft",
+    "linksTo": [
+      "skilled-nursing-at-home-guide",
+      "fall-prevention-exercises-home",
+      "medication-management-home-health"
+    ]
+  },
+  {
+    "title": "Medication Management in Home Health Nursing: Safe Systems That Work",
+    "slug": "medication-management-home-health",
+    "category": "Skilled Nursing",
+    "tags": [
+      "medication",
+      "safety",
+      "education"
+    ],
+    "targetKeyword": "home health medication management",
+    "secondaryKeywords": [
+      "medication reconciliation",
+      "pillbox setup",
+      "nurse medication teaching"
+    ],
+    "metaDescription": "How skilled nurses simplify medications at home with reconciliations, reminders, and caregiver coaching.",
+    "readingGoal": "7-9 min",
+    "heroImage": "medication-management-hero.jpg",
+    "inlineImages": [
+      "medication-chart-sample.png",
+      "pillbox-setup-photo.jpg"
+    ],
+    "author": "Staff Clinician",
+    "status": "draft",
+    "linksTo": [
+      "plan-of-care-home-health",
+      "skilled-nursing-at-home-guide",
+      "medication-reminders-home-health-aide"
+    ]
+  },
+  {
+    "title": "Managing Chronic Conditions with Skilled Nursing at Home",
+    "slug": "chronic-condition-skilled-nursing",
+    "category": "Skilled Nursing",
+    "tags": [
+      "chronic-care",
+      "disease-management",
+      "education"
+    ],
+    "targetKeyword": "chronic disease management home health",
+    "secondaryKeywords": [
+      "heart failure home health",
+      "copd monitoring at home",
+      "diabetes skilled nursing"
+    ],
+    "metaDescription": "Discover how home health nurses track chronic conditions, adjust care plans, and prevent rehospitalizations.",
+    "readingGoal": "9-11 min",
+    "heroImage": "chronic-care-skilled-nursing-hero.jpg",
+    "inlineImages": [
+      "vital-signs-log.png",
+      "symptom-tracking-wheel.png"
+    ],
+    "author": "Staff Clinician",
+    "status": "draft",
+    "linksTo": [
+      "skilled-nursing-at-home-guide",
+      "home-health-recertification-timeline",
+      "dme-essentials-home-care"
+    ]
+  },
+  {
+    "title": "Fall Prevention at Home: PT-Led Balance Exercises You Can Start Today",
+    "slug": "fall-prevention-exercises-home",
+    "category": "Physical Therapy",
+    "tags": [
+      "fall-prevention",
+      "balance",
+      "exercise"
+    ],
+    "targetKeyword": "fall prevention exercises for seniors",
+    "secondaryKeywords": [
+      "balance exercises at home",
+      "home physical therapy tips",
+      "fall proofing home"
+    ],
+    "metaDescription": "Physical therapists share easy balance exercises, safety checks, and progress tips to prevent falls at home.",
+    "readingGoal": "8-10 min",
+    "heroImage": "fall-prevention-pt-hero.jpg",
+    "inlineImages": [
+      "balance-exercise-sequence.png",
+      "home-safety-spot-check.png"
+    ],
+    "author": "Lead Physical Therapist",
+    "status": "draft",
+    "linksTo": [
+      "grab-bars-home-safety",
+      "gait-training-after-joint-replacement",
+      "balance-training-tools-pt"
+    ]
+  },
+  {
+    "title": "Gait Training After Joint Replacement: Home PT Roadmap",
+    "slug": "gait-training-after-joint-replacement",
+    "category": "Physical Therapy",
+    "tags": [
+      "gait-training",
+      "orthopedic",
+      "exercise"
+    ],
+    "targetKeyword": "gait training after knee replacement",
+    "secondaryKeywords": [
+      "home physical therapy after surgery",
+      "walker to cane transition",
+      "stairs after hip replacement"
+    ],
+    "metaDescription": "Understand the stages of gait training after joint replacement, with home safety and strengthening tips.",
+    "readingGoal": "9-11 min",
+    "heroImage": "gait-training-hero.jpg",
+    "inlineImages": [
+      "assistive-device-progressions.png",
+      "step-training-photo.jpg"
+    ],
+    "author": "Lead Physical Therapist",
+    "status": "draft",
+    "linksTo": [
+      "post-op-care-at-home-checklist",
+      "walker-selection-guide",
+      "orthopedic-rehab-at-home"
+    ]
+  },
+  {
+    "title": "Home Physical Therapy After Stroke: Regaining Movement and Confidence",
+    "slug": "home-physical-therapy-after-stroke",
+    "category": "Physical Therapy",
+    "tags": [
+      "stroke",
+      "neuro",
+      "mobility"
+    ],
+    "targetKeyword": "home physical therapy stroke",
+    "secondaryKeywords": [
+      "stroke rehab exercises",
+      "home therapy goals",
+      "balance after stroke"
+    ],
+    "metaDescription": "Stroke rehab steps you can expect from home physical therapists, including mobility, balance, and caregiver coaching.",
+    "readingGoal": "10-12 min",
+    "heroImage": "stroke-pt-home-hero.jpg",
+    "inlineImages": [
+      "stroke-rehab-phase-chart.png",
+      "caregiver-support-photo.jpg"
+    ],
+    "author": "Lead Physical Therapist",
+    "status": "draft",
+    "linksTo": [
+      "aphasia-therapy-at-home",
+      "stroke-recovery-ot-goals",
+      "fall-prevention-exercises-home"
+    ]
+  },
+  {
+    "title": "Orthopedic Rehab at Home: Getting Back on Your Feet",
+    "slug": "orthopedic-rehab-at-home",
+    "category": "Physical Therapy",
+    "tags": [
+      "orthopedic",
+      "strength",
+      "mobility"
+    ],
+    "targetKeyword": "orthopedic rehab at home",
+    "secondaryKeywords": [
+      "home therapy protocol",
+      "strengthening exercises",
+      "pain control tips"
+    ],
+    "metaDescription": "How home physical therapists guide orthopedic recovery with pacing, pain control, and mobility goals.",
+    "readingGoal": "8-10 min",
+    "heroImage": "orthopedic-rehab-home-hero.jpg",
+    "inlineImages": [
+      "strength-progress-chart.png",
+      "ice-and-elevate-infographic.png"
+    ],
+    "author": "Lead Physical Therapist",
+    "status": "draft",
+    "linksTo": [
+      "post-op-care-at-home-checklist",
+      "gait-training-after-joint-replacement",
+      "physical-therapy-pain-management"
+    ]
+  },
+  {
+    "title": "Balance Training Tools PTs Recommend for Safer Homes",
+    "slug": "balance-training-tools-pt",
+    "category": "Physical Therapy",
+    "tags": [
+      "balance",
+      "equipment",
+      "fall-prevention"
+    ],
+    "targetKeyword": "balance training tools for seniors",
+    "secondaryKeywords": [
+      "best balance aids",
+      "physical therapy equipment home",
+      "fall prevention gear"
+    ],
+    "metaDescription": "Get PT-approved tools and simple routines to improve balance and confidence in the home environment.",
+    "readingGoal": "7-9 min",
+    "heroImage": "balance-tools-hero.jpg",
+    "inlineImages": [
+      "balance-toolkit-photo.jpg",
+      "practice-schedule-template.png"
+    ],
+    "author": "Lead Physical Therapist",
+    "status": "draft",
+    "linksTo": [
+      "fall-prevention-exercises-home",
+      "grab-bars-home-safety",
+      "walker-selection-guide"
+    ]
+  },
+  {
+    "title": "Pain Management with Physical Therapy at Home",
+    "slug": "physical-therapy-pain-management",
+    "category": "Physical Therapy",
+    "tags": [
+      "pain-management",
+      "modalities",
+      "education"
+    ],
+    "targetKeyword": "physical therapy pain management at home",
+    "secondaryKeywords": [
+      "non opioid pain relief",
+      "home therapy modalities",
+      "pt pain scale"
+    ],
+    "metaDescription": "Learn how home physical therapists use movement, modalities, and education to control pain without heavy meds.",
+    "readingGoal": "8-9 min",
+    "heroImage": "pt-pain-management-hero.jpg",
+    "inlineImages": [
+      "pain-journal-template.png",
+      "heat-vs-ice-guide.png"
+    ],
+    "author": "Lead Physical Therapist",
+    "status": "draft",
+    "linksTo": [
+      "medication-management-home-health",
+      "orthopedic-rehab-at-home",
+      "energy-conservation-ot-tips"
+    ]
+  },
+  {
+    "title": "Occupational Therapy at Home: Setting Up a Safer Bathroom",
+    "slug": "safer-bathroom-occupational-therapy",
+    "category": "Occupational Therapy",
+    "tags": [
+      "bathroom-safety",
+      "adl",
+      "adaptive-equipment"
+    ],
+    "targetKeyword": "bathroom safety for elderly",
+    "secondaryKeywords": [
+      "bathroom modifications",
+      "grab bar placement",
+      "ot home safety"
+    ],
+    "metaDescription": "Occupational therapists share easy bathroom updates to prevent falls and make care easier.",
+    "readingGoal": "7-9 min",
+    "heroImage": "ot-bathroom-safety-hero.jpg",
+    "inlineImages": [
+      "grab-bar-placement-diagram.png",
+      "bathroom-safety-checklist.png"
+    ],
+    "author": "Lead Occupational Therapist",
+    "status": "draft",
+    "linksTo": [
+      "grab-bars-home-safety",
+      "adaptive-equipment-adl-checklist",
+      "dementia-home-health-aide"
+    ]
+  },
+  {
+    "title": "Adaptive Equipment Checklist for Daily Living",
+    "slug": "adaptive-equipment-adl-checklist",
+    "category": "Occupational Therapy",
+    "tags": [
+      "adaptive-equipment",
+      "adl",
+      "independence"
+    ],
+    "targetKeyword": "adaptive equipment for daily living",
+    "secondaryKeywords": [
+      "adl tools",
+      "ot recommendations",
+      "independent living aids"
+    ],
+    "metaDescription": "A simple checklist of OT-approved adaptive equipment for dressing, bathing, and meal prep.",
+    "readingGoal": "7-8 min",
+    "heroImage": "adaptive-equipment-hero.jpg",
+    "inlineImages": [
+      "adl-toolkit-photo.jpg",
+      "equipment-comparison-chart.png"
+    ],
+    "author": "Lead Occupational Therapist",
+    "status": "draft",
+    "linksTo": [
+      "safer-bathroom-occupational-therapy",
+      "home-safety-evaluation-ot",
+      "walker-selection-guide"
+    ]
+  },
+  {
+    "title": "Home Safety Evaluation: OT Room-by-Room Guide",
+    "slug": "home-safety-evaluation-ot",
+    "category": "Occupational Therapy",
+    "tags": [
+      "home-safety",
+      "assessment",
+      "modifications"
+    ],
+    "targetKeyword": "home safety evaluation occupational therapy",
+    "secondaryKeywords": [
+      "ot home visit",
+      "safety checklist home",
+      "risk assessment home health"
+    ],
+    "metaDescription": "Walk through each room with an OT lens to identify hazards, supports, and quick fixes.",
+    "readingGoal": "9-11 min",
+    "heroImage": "ot-home-safety-hero.jpg",
+    "inlineImages": [
+      "room-by-room-safety-map.png",
+      "lighting-upgrade-guide.png"
+    ],
+    "author": "Lead Occupational Therapist",
+    "status": "draft",
+    "linksTo": [
+      "safer-bathroom-occupational-therapy",
+      "home-oxygen-safety-checklist",
+      "emergency-preparedness-home-health"
+    ]
+  },
+  {
+    "title": "Stroke Recovery ADL Goals with OT Support",
+    "slug": "stroke-recovery-ot-goals",
+    "category": "Occupational Therapy",
+    "tags": [
+      "stroke",
+      "adl",
+      "rehab"
+    ],
+    "targetKeyword": "stroke recovery occupational therapy goals",
+    "secondaryKeywords": [
+      "ot goals stroke",
+      "adl retraining",
+      "caregiver cueing"
+    ],
+    "metaDescription": "How occupational therapists rebuild daily routines after a stroke, with caregiver coaching and adaptive tools.",
+    "readingGoal": "9-11 min",
+    "heroImage": "stroke-ot-recovery-hero.jpg",
+    "inlineImages": [
+      "adl-goal-tracker.png",
+      "caregiver-cueing-photo.jpg"
+    ],
+    "author": "Lead Occupational Therapist",
+    "status": "draft",
+    "linksTo": [
+      "home-physical-therapy-after-stroke",
+      "aphasia-therapy-at-home",
+      "energy-conservation-ot-tips"
+    ]
+  },
+  {
+    "title": "Energy Conservation Tips from Occupational Therapists",
+    "slug": "energy-conservation-ot-tips",
+    "category": "Occupational Therapy",
+    "tags": [
+      "energy-conservation",
+      "fatigue",
+      "chronic-care"
+    ],
+    "targetKeyword": "energy conservation occupational therapy",
+    "secondaryKeywords": [
+      "save energy adls",
+      "ot fatigue management",
+      "pacing strategies"
+    ],
+    "metaDescription": "Learn OT-approved pacing and positioning strategies to fight fatigue during daily care routines.",
+    "readingGoal": "7-8 min",
+    "heroImage": "energy-conservation-hero.jpg",
+    "inlineImages": [
+      "pacing-strategy-chart.png",
+      "rest-break-planner.png"
+    ],
+    "author": "Lead Occupational Therapist",
+    "status": "draft",
+    "linksTo": [
+      "chronic-condition-skilled-nursing",
+      "physical-therapy-pain-management",
+      "daily-routines-home-health-aide"
+    ]
+  },
+  {
+    "title": "Dementia-Friendly Home Modifications with OT Guidance",
+    "slug": "dementia-home-mods-ot",
+    "category": "Occupational Therapy",
+    "tags": [
+      "dementia",
+      "home-modifications",
+      "safety"
+    ],
+    "targetKeyword": "dementia home modifications",
+    "secondaryKeywords": [
+      "memory care at home",
+      "visual cues dementia",
+      "wandering prevention"
+    ],
+    "metaDescription": "Practical OT advice on creating calming, easy-to-navigate spaces for people living with dementia.",
+    "readingGoal": "8-10 min",
+    "heroImage": "dementia-home-mods-hero.jpg",
+    "inlineImages": [
+      "room-zones-illustration.png",
+      "dementia-safety-signage.png"
+    ],
+    "author": "Lead Occupational Therapist",
+    "status": "draft",
+    "linksTo": [
+      "dementia-home-health-aide",
+      "home-safety-evaluation-ot",
+      "community-resources-aging-in-place"
+    ]
+  },
+  {
+    "title": "Speech Therapy for Post-Stroke Aphasia: Goals, Techniques, and Progress",
+    "slug": "aphasia-therapy-at-home",
+    "category": "Speech Therapy",
+    "tags": [
+      "aphasia",
+      "stroke",
+      "communication"
+    ],
+    "targetKeyword": "aphasia therapy at home",
+    "secondaryKeywords": [
+      "speech therapy stroke",
+      "aphasia exercises",
+      "communication boards"
+    ],
+    "metaDescription": "How speech therapists support aphasia recovery at home with goal setting, practice, and family coaching.",
+    "readingGoal": "9-11 min",
+    "heroImage": "aphasia-therapy-hero.jpg",
+    "inlineImages": [
+      "communication-board-sample.png",
+      "aphasia-progress-chart.png"
+    ],
+    "author": "Speech-Language Pathologist",
+    "status": "draft",
+    "linksTo": [
+      "home-physical-therapy-after-stroke",
+      "stroke-recovery-ot-goals",
+      "family-communication-speech-therapy"
+    ]
+  },
+  {
+    "title": "Managing Dysphagia at Home: Speech Therapist Tips",
+    "slug": "dysphagia-management-at-home",
+    "category": "Speech Therapy",
+    "tags": [
+      "dysphagia",
+      "swallowing",
+      "safety"
+    ],
+    "targetKeyword": "dysphagia therapy at home",
+    "secondaryKeywords": [
+      "safe swallowing",
+      "thickened liquids",
+      "speech therapy dysphagia"
+    ],
+    "metaDescription": "Simple swallowing safety steps, diet textures, and caregiver coaching from speech therapists.",
+    "readingGoal": "8-10 min",
+    "heroImage": "dysphagia-home-hero.jpg",
+    "inlineImages": [
+      "swallow-safety-checklist.png",
+      "food-texture-guide.png"
+    ],
+    "author": "Speech-Language Pathologist",
+    "status": "draft",
+    "linksTo": [
+      "aphasia-therapy-at-home",
+      "home-oxygen-safety-checklist",
+      "medicare-home-health-eligibility"
+    ]
+  },
+  {
+    "title": "Cognitive-Linguistic Rehab Activities for Home Visits",
+    "slug": "cognitive-linguistic-rehab-home",
+    "category": "Speech Therapy",
+    "tags": [
+      "cognitive",
+      "memory",
+      "attention"
+    ],
+    "targetKeyword": "cognitive linguistic therapy at home",
+    "secondaryKeywords": [
+      "brain exercises home",
+      "speech therapy cognition",
+      "memory strategies"
+    ],
+    "metaDescription": "Engaging cognitive activities speech therapists use at home to build attention, memory, and problem solving.",
+    "readingGoal": "8-9 min",
+    "heroImage": "cognitive-rehab-hero.jpg",
+    "inlineImages": [
+      "memory-game-printable.png",
+      "problem-solving-flowchart.png"
+    ],
+    "author": "Speech-Language Pathologist",
+    "status": "draft",
+    "linksTo": [
+      "aphasia-therapy-at-home",
+      "telepractice-home-speech-therapy",
+      "energy-conservation-ot-tips"
+    ]
+  },
+  {
+    "title": "Voice Therapy at Home for Parkinson's: Practical Daily Habits",
+    "slug": "voice-therapy-parkinsons-home",
+    "category": "Speech Therapy",
+    "tags": [
+      "parkinsons",
+      "voice",
+      "exercise"
+    ],
+    "targetKeyword": "voice therapy parkinsons home",
+    "secondaryKeywords": [
+      "loud therapy exercises",
+      "speech therapy parkinsons",
+      "voice amplifier tips"
+    ],
+    "metaDescription": "Daily speech therapy habits to keep Parkinson's voices strong at home with cueing and caregiver support.",
+    "readingGoal": "7-9 min",
+    "heroImage": "voice-therapy-parkinsons-hero.jpg",
+    "inlineImages": [
+      "voice-exercise-sequence.png",
+      "volume-tracking-chart.png"
+    ],
+    "author": "Speech-Language Pathologist",
+    "status": "draft",
+    "linksTo": [
+      "cognitive-linguistic-rehab-home",
+      "telepractice-home-speech-therapy",
+      "chronic-condition-skilled-nursing"
+    ]
+  },
+  {
+    "title": "Family Communication Strategies with Speech Therapy Support",
+    "slug": "family-communication-speech-therapy",
+    "category": "Speech Therapy",
+    "tags": [
+      "family-training",
+      "communication",
+      "education"
+    ],
+    "targetKeyword": "speech therapy family training",
+    "secondaryKeywords": [
+      "communication strategies",
+      "caregiver coaching",
+      "home speech therapy tips"
+    ],
+    "metaDescription": "Speech therapists share simple prompts, cues, and tools families can use to support communication at home.",
+    "readingGoal": "7-8 min",
+    "heroImage": "family-communication-hero.jpg",
+    "inlineImages": [
+      "communication-cue-cards.png",
+      "family-meeting-checklist.png"
+    ],
+    "author": "Speech-Language Pathologist",
+    "status": "draft",
+    "linksTo": [
+      "aphasia-therapy-at-home",
+      "family-meetings-home-health",
+      "caregiver-burnout-help"
+    ]
+  },
+  {
+    "title": "Telepractice Tips for Home Speech Therapy Sessions",
+    "slug": "telepractice-home-speech-therapy",
+    "category": "Speech Therapy",
+    "tags": [
+      "telehealth",
+      "technology",
+      "speech-therapy"
+    ],
+    "targetKeyword": "home speech therapy telepractice",
+    "secondaryKeywords": [
+      "virtual speech therapy",
+      "online home health",
+      "tech setup for teletherapy"
+    ],
+    "metaDescription": "How to set up devices, manage lighting, and keep virtual speech therapy engaging for all ages.",
+    "readingGoal": "6-8 min",
+    "heroImage": "telepractice-speech-hero.jpg",
+    "inlineImages": [
+      "telepractice-setup-diagram.png",
+      "tech-checklist-printable.png"
+    ],
+    "author": "Speech-Language Pathologist",
+    "status": "draft",
+    "linksTo": [
+      "cognitive-linguistic-rehab-home",
+      "voice-therapy-parkinsons-home",
+      "aphasia-therapy-at-home"
+    ]
+  },
+  {
+    "title": "Caregiver Burnout: Signs, Self-Care Plan, and Getting Help",
+    "slug": "caregiver-burnout-help",
+    "category": "Medical Social Work",
+    "tags": [
+      "caregiver",
+      "mental-health",
+      "support"
+    ],
+    "targetKeyword": "caregiver burnout help",
+    "secondaryKeywords": [
+      "caregiver stress signs",
+      "respite care options",
+      "self care for caregivers"
+    ],
+    "metaDescription": "Spot caregiver burnout early, build a simple self-care plan, and learn when to ask for more help.",
+    "readingGoal": "7-9 min",
+    "heroImage": "caregiver-burnout-hero.jpg",
+    "inlineImages": [
+      "burnout-symptom-chart.png",
+      "self-care-planner.png"
+    ],
+    "author": "Medical Social Worker",
+    "status": "draft",
+    "linksTo": [
+      "respite-care-at-home-guide",
+      "family-meetings-home-health",
+      "community-resources-aging-in-place"
+    ]
+  },
+  {
+    "title": "Medical Social Worker Role in Care Coordination",
+    "slug": "medical-social-work-care-coordination",
+    "category": "Medical Social Work",
+    "tags": [
+      "care-coordination",
+      "resources",
+      "education"
+    ],
+    "targetKeyword": "medical social worker home health",
+    "secondaryKeywords": [
+      "care coordination home health",
+      "social worker role home care",
+      "interdisciplinary team"
+    ],
+    "metaDescription": "Learn how medical social workers bridge hospital to home, connect services, and support families.",
+    "readingGoal": "8-10 min",
+    "heroImage": "medical-social-work-hero.jpg",
+    "inlineImages": [
+      "care-team-diagram.png",
+      "resource-referral-flowchart.png"
+    ],
+    "author": "Medical Social Worker",
+    "status": "draft",
+    "linksTo": [
+      "plan-of-care-home-health",
+      "family-meetings-home-health",
+      "community-resources-aging-in-place"
+    ]
+  },
+  {
+    "title": "Planning for Advance Directives with a Social Worker",
+    "slug": "advance-directives-social-worker",
+    "category": "Medical Social Work",
+    "tags": [
+      "advance-directives",
+      "legal",
+      "planning"
+    ],
+    "targetKeyword": "advance directives home health",
+    "secondaryKeywords": [
+      "living will home health",
+      "healthcare proxy",
+      "end-of-life planning"
+    ],
+    "metaDescription": "Step-by-step support for discussing and completing advance directives with the help of a medical social worker.",
+    "readingGoal": "8-9 min",
+    "heroImage": "advance-directives-hero.jpg",
+    "inlineImages": [
+      "conversation-starter-cards.png",
+      "forms-checklist.png"
+    ],
+    "author": "Medical Social Worker",
+    "status": "draft",
+    "linksTo": [
+      "family-meetings-home-health",
+      "plan-of-care-home-health",
+      "home-health-care-vs-nursing-home"
+    ]
+  },
+  {
+    "title": "Community Resources for Aging in Place: Social Worker Guide",
+    "slug": "community-resources-aging-in-place",
+    "category": "Medical Social Work",
+    "tags": [
+      "resources",
+      "aging-in-place",
+      "community"
+    ],
+    "targetKeyword": "aging in place resources",
+    "secondaryKeywords": [
+      "community programs seniors",
+      "home delivered meals",
+      "transportation assistance"
+    ],
+    "metaDescription": "Find trusted community programs, funding options, and tips to stay safely at home longer.",
+    "readingGoal": "7-9 min",
+    "heroImage": "aging-in-place-resources-hero.jpg",
+    "inlineImages": [
+      "resource-directory-template.png",
+      "transportation-options-chart.png"
+    ],
+    "author": "Medical Social Worker",
+    "status": "draft",
+    "linksTo": [
+      "medical-social-work-care-coordination",
+      "dementia-home-mods-ot",
+      "caregiver-burnout-help"
+    ]
+  },
+  {
+    "title": "Navigating Insurance Appeals with Medical Social Work",
+    "slug": "insurance-appeals-medical-social-work",
+    "category": "Medical Social Work",
+    "tags": [
+      "insurance",
+      "advocacy",
+      "education"
+    ],
+    "targetKeyword": "home health insurance appeal",
+    "secondaryKeywords": [
+      "denied home health services",
+      "appeal letter tips",
+      "insurance advocacy"
+    ],
+    "metaDescription": "Get step-by-step guidance from social workers on filing insurance appeals and gathering supporting documents.",
+    "readingGoal": "8-10 min",
+    "heroImage": "insurance-appeals-hero.jpg",
+    "inlineImages": [
+      "appeal-letter-template.png",
+      "timeline-tracker.png"
+    ],
+    "author": "Medical Social Worker",
+    "status": "draft",
+    "linksTo": [
+      "medicare-home-health-eligibility",
+      "medical-social-work-care-coordination",
+      "plan-of-care-home-health"
+    ]
+  },
+  {
+    "title": "Supporting Family Meetings in Home Health",
+    "slug": "family-meetings-home-health",
+    "category": "Medical Social Work",
+    "tags": [
+      "family",
+      "communication",
+      "planning"
+    ],
+    "targetKeyword": "family meetings home health",
+    "secondaryKeywords": [
+      "care conferences",
+      "home health team meeting",
+      "goal setting family"
+    ],
+    "metaDescription": "Learn how social workers facilitate calm, productive family meetings to keep everyone on the same page.",
+    "readingGoal": "7-8 min",
+    "heroImage": "family-meeting-hero.jpg",
+    "inlineImages": [
+      "meeting-agenda-template.png",
+      "ground-rules-card.png"
+    ],
+    "author": "Medical Social Worker",
+    "status": "draft",
+    "linksTo": [
+      "caregiver-burnout-help",
+      "family-communication-speech-therapy",
+      "plan-of-care-home-health"
+    ]
+  },
+  {
+    "title": "How Home Health Aides Support Dementia Care: Daily Routines That Work",
+    "slug": "dementia-home-health-aide",
+    "category": "Home Health Aide",
+    "tags": [
+      "dementia",
+      "personal-care",
+      "routine"
+    ],
+    "targetKeyword": "dementia home health aide",
+    "secondaryKeywords": [
+      "dementia daily routine",
+      "caregiver support aide",
+      "memory care at home"
+    ],
+    "metaDescription": "Daily routines, communication tips, and calming strategies that home health aides use for dementia care.",
+    "readingGoal": "8-10 min",
+    "heroImage": "dementia-home-health-aide-hero.jpg",
+    "inlineImages": [
+      "dementia-day-planner.png",
+      "calming-activities-photo.jpg"
+    ],
+    "author": "Home Health Aide Supervisor",
+    "status": "draft",
+    "linksTo": [
+      "dementia-home-mods-ot",
+      "caregiver-burnout-help",
+      "daily-routines-home-health-aide"
+    ]
+  },
+  {
+    "title": "Personal Care Routines: Bathing and Grooming Support at Home",
+    "slug": "personal-care-routines-home-health-aide",
+    "category": "Home Health Aide",
+    "tags": [
+      "personal-care",
+      "bathing",
+      "grooming"
+    ],
+    "targetKeyword": "home health aide bathing support",
+    "secondaryKeywords": [
+      "safe bathing tips",
+      "grooming assistance",
+      "privacy home care"
+    ],
+    "metaDescription": "Learn how aides plan comfortable bathing and grooming routines while protecting safety and dignity.",
+    "readingGoal": "7-8 min",
+    "heroImage": "personal-care-routines-hero.jpg",
+    "inlineImages": [
+      "bathing-safety-checklist.png",
+      "grooming-supplies-photo.jpg"
+    ],
+    "author": "Home Health Aide Supervisor",
+    "status": "draft",
+    "linksTo": [
+      "safer-bathroom-occupational-therapy",
+      "daily-routines-home-health-aide",
+      "medication-reminders-home-health-aide"
+    ]
+  },
+  {
+    "title": "Respite Care at Home: Scheduling Relief You Can Trust",
+    "slug": "respite-care-at-home-guide",
+    "category": "Home Health Aide",
+    "tags": [
+      "respite",
+      "caregiver",
+      "planning"
+    ],
+    "targetKeyword": "respite care at home",
+    "secondaryKeywords": [
+      "short term respite",
+      "home health aide relief",
+      "caregiver break plan"
+    ],
+    "metaDescription": "Plan predictable respite visits, set expectations, and keep communication open with your home health agency.",
+    "readingGoal": "7-9 min",
+    "heroImage": "respite-care-hero.jpg",
+    "inlineImages": [
+      "respite-schedule-template.png",
+      "handoff-checklist.png"
+    ],
+    "author": "Home Health Aide Supervisor",
+    "status": "draft",
+    "linksTo": [
+      "caregiver-burnout-help",
+      "family-meetings-home-health",
+      "community-resources-aging-in-place"
+    ]
+  },
+  {
+    "title": "Building Daily Routines with Home Health Aides",
+    "slug": "daily-routines-home-health-aide",
+    "category": "Home Health Aide",
+    "tags": [
+      "routine",
+      "adl",
+      "care-planning"
+    ],
+    "targetKeyword": "daily routine home health aide",
+    "secondaryKeywords": [
+      "schedule home care",
+      "care plan tasks",
+      "personal care routines"
+    ],
+    "metaDescription": "Set up morning, midday, and evening routines with your aide to cover ADLs, exercise, and rest.",
+    "readingGoal": "7-8 min",
+    "heroImage": "daily-routine-aide-hero.jpg",
+    "inlineImages": [
+      "daily-routine-chart.png",
+      "task-priority-matrix.png"
+    ],
+    "author": "Home Health Aide Supervisor",
+    "status": "draft",
+    "linksTo": [
+      "medication-reminders-home-health-aide",
+      "energy-conservation-ot-tips",
+      "dementia-home-health-aide"
+    ]
+  },
+  {
+    "title": "Safety Lifting and Transfers with Home Health Aides",
+    "slug": "safe-transfers-home-health-aide",
+    "category": "Home Health Aide",
+    "tags": [
+      "transfers",
+      "safety",
+      "training"
+    ],
+    "targetKeyword": "safe transfers home care",
+    "secondaryKeywords": [
+      "gait belt use",
+      "transfer board home",
+      "fall prevention caregiver"
+    ],
+    "metaDescription": "How aides use proper body mechanics, gait belts, and communication to complete safe transfers.",
+    "readingGoal": "8-9 min",
+    "heroImage": "safe-transfers-hero.jpg",
+    "inlineImages": [
+      "transfer-steps-diagram.png",
+      "gait-belt-photo.jpg"
+    ],
+    "author": "Home Health Aide Supervisor",
+    "status": "draft",
+    "linksTo": [
+      "fall-prevention-exercises-home",
+      "walker-selection-guide",
+      "personal-care-routines-home-health-aide"
+    ]
+  },
+  {
+    "title": "Partnering with Aides for Medication Reminders",
+    "slug": "medication-reminders-home-health-aide",
+    "category": "Home Health Aide",
+    "tags": [
+      "medication",
+      "support",
+      "routine"
+    ],
+    "targetKeyword": "medication reminders home health aide",
+    "secondaryKeywords": [
+      "pill reminder aide",
+      "medication cueing",
+      "teamwork with nurse"
+    ],
+    "metaDescription": "Coordinate with nurses and aides to keep medication schedules on track without confusion.",
+    "readingGoal": "6-8 min",
+    "heroImage": "medication-reminders-hero.jpg",
+    "inlineImages": [
+      "medication-reminder-card.png",
+      "team-communication-flow.png"
+    ],
+    "author": "Home Health Aide Supervisor",
+    "status": "draft",
+    "linksTo": [
+      "medication-management-home-health",
+      "daily-routines-home-health-aide",
+      "plan-of-care-home-health"
+    ]
+  },
+  {
+    "title": "Medicare Home Health Eligibility: The Exact Checklist (with Examples)",
+    "slug": "medicare-home-health-eligibility",
+    "category": "Care Planning & Medicare",
+    "tags": [
+      "medicare",
+      "eligibility",
+      "compliance"
+    ],
+    "targetKeyword": "medicare home health eligibility",
+    "secondaryKeywords": [
+      "qualify for home health",
+      "homebound criteria",
+      "skilled need examples"
+    ],
+    "metaDescription": "Review every Medicare home health requirement with plain-language examples and documentation tips.",
+    "readingGoal": "9-11 min",
+    "heroImage": "medicare-eligibility-hero.jpg",
+    "inlineImages": [
+      "eligibility-checklist.png",
+      "homebound-examples-chart.png"
+    ],
+    "author": "Care Planning Nurse",
+    "status": "draft",
+    "linksTo": [
+      "skilled-nursing-at-home-guide",
+      "plan-of-care-home-health",
+      "insurance-appeals-medical-social-work"
+    ]
+  },
+  {
+    "title": "Home Health Care vs Nursing Home: Costs, Care Levels, and Who Qualifies",
+    "slug": "home-health-care-vs-nursing-home",
+    "category": "Care Planning & Medicare",
+    "tags": [
+      "costs",
+      "decision-making",
+      "comparison"
+    ],
+    "targetKeyword": "home health care vs nursing home",
+    "secondaryKeywords": [
+      "compare home care nursing home",
+      "cost of home health",
+      "long term care options"
+    ],
+    "metaDescription": "Compare services, costs, and eligibility between home health and nursing homes to choose the best fit.",
+    "readingGoal": "9-11 min",
+    "heroImage": "home-care-vs-nursing-home-hero.jpg",
+    "inlineImages": [
+      "cost-comparison-table.png",
+      "care-levels-flowchart.png"
+    ],
+    "author": "Care Planning Nurse",
+    "status": "draft",
+    "linksTo": [
+      "medicare-home-health-eligibility",
+      "advance-directives-social-worker",
+      "community-resources-aging-in-place"
+    ]
+  },
+  {
+    "title": "Understanding the Plan of Care in Home Health",
+    "slug": "plan-of-care-home-health",
+    "category": "Care Planning & Medicare",
+    "tags": [
+      "care-plan",
+      "coordination",
+      "documentation"
+    ],
+    "targetKeyword": "plan of care home health",
+    "secondaryKeywords": [
+      "485 form",
+      "care coordination home health",
+      "goal setting home care"
+    ],
+    "metaDescription": "Break down each part of the home health plan of care so families know what to expect and track progress.",
+    "readingGoal": "8-10 min",
+    "heroImage": "plan-of-care-hero.jpg",
+    "inlineImages": [
+      "plan-of-care-sample.png",
+      "goal-tracking-template.png"
+    ],
+    "author": "Care Planning Nurse",
+    "status": "draft",
+    "linksTo": [
+      "medical-social-work-care-coordination",
+      "medication-management-home-health",
+      "medicare-home-health-eligibility"
+    ]
+  },
+  {
+    "title": "OASIS Basics for Families: What Happens During the Nurse Assessment?",
+    "slug": "oasis-basics-for-families",
+    "category": "Care Planning & Medicare",
+    "tags": [
+      "oasis",
+      "assessment",
+      "compliance"
+    ],
+    "targetKeyword": "oasis assessment home health",
+    "secondaryKeywords": [
+      "oasis questions",
+      "start of care visit",
+      "home health assessment"
+    ],
+    "metaDescription": "Understand the OASIS assessment in plain language so you can prepare, participate, and follow up.",
+    "readingGoal": "8-9 min",
+    "heroImage": "oasis-basics-hero.jpg",
+    "inlineImages": [
+      "oasis-section-cheatsheet.png",
+      "visit-prep-checklist.png"
+    ],
+    "author": "Care Planning Nurse",
+    "status": "draft",
+    "linksTo": [
+      "medicare-home-health-eligibility",
+      "plan-of-care-home-health",
+      "home-health-recertification-timeline"
+    ]
+  },
+  {
+    "title": "Recertification Timeline for Home Health Services",
+    "slug": "home-health-recertification-timeline",
+    "category": "Care Planning & Medicare",
+    "tags": [
+      "recertification",
+      "timeline",
+      "compliance"
+    ],
+    "targetKeyword": "home health recertification",
+    "secondaryKeywords": [
+      "60 day recert",
+      "medicare recertification",
+      "home health continuation"
+    ],
+    "metaDescription": "Track each step of the 60-day recertification cycle so services continue without gaps.",
+    "readingGoal": "8-9 min",
+    "heroImage": "recertification-timeline-hero.jpg",
+    "inlineImages": [
+      "recertification-calendar.png",
+      "documentation-checklist.png"
+    ],
+    "author": "Care Planning Nurse",
+    "status": "draft",
+    "linksTo": [
+      "medicare-home-health-eligibility",
+      "chronic-condition-skilled-nursing",
+      "physician-face-to-face-home-health"
+    ]
+  },
+  {
+    "title": "Physician Face-to-Face Visits Explained for Home Health",
+    "slug": "physician-face-to-face-home-health",
+    "category": "Care Planning & Medicare",
+    "tags": [
+      "physician",
+      "compliance",
+      "documentation"
+    ],
+    "targetKeyword": "physician face to face home health",
+    "secondaryKeywords": [
+      "face to face encounter",
+      "documentation tips",
+      "home health orders"
+    ],
+    "metaDescription": "Get clear on the physician face-to-face requirement, deadlines, and what documentation is needed.",
+    "readingGoal": "7-8 min",
+    "heroImage": "physician-face-to-face-hero.jpg",
+    "inlineImages": [
+      "face-to-face-timeline.png",
+      "visit-summary-template.png"
+    ],
+    "author": "Care Planning Nurse",
+    "status": "draft",
+    "linksTo": [
+      "plan-of-care-home-health",
+      "medicare-home-health-eligibility",
+      "oasis-basics-for-families"
+    ]
+  },
+  {
+    "title": "Essential Durable Medical Equipment for Home Care",
+    "slug": "dme-essentials-home-care",
+    "category": "Safety & Equipment",
+    "tags": [
+      "dme",
+      "equipment",
+      "safety"
+    ],
+    "targetKeyword": "durable medical equipment home care",
+    "secondaryKeywords": [
+      "home medical equipment list",
+      "rent or buy dme",
+      "insurance coverage dme"
+    ],
+    "metaDescription": "A room-by-room list of the most helpful durable medical equipment and how to request it.",
+    "readingGoal": "8-9 min",
+    "heroImage": "dme-essentials-hero.jpg",
+    "inlineImages": [
+      "dme-room-map.png",
+      "equipment-order-form.png"
+    ],
+    "author": "Safety Specialist",
+    "status": "draft",
+    "linksTo": [
+      "adaptive-equipment-adl-checklist",
+      "walker-selection-guide",
+      "home-health-recertification-timeline"
+    ]
+  },
+  {
+    "title": "Grab Bars and Fall Mats: Installing Safety Gear That Works",
+    "slug": "grab-bars-home-safety",
+    "category": "Safety & Equipment",
+    "tags": [
+      "fall-prevention",
+      "equipment",
+      "bathroom-safety"
+    ],
+    "targetKeyword": "grab bars home safety",
+    "secondaryKeywords": [
+      "install grab bars",
+      "fall mats",
+      "bathroom safety equipment"
+    ],
+    "metaDescription": "Choose, place, and install grab bars and fall mats with tips from therapists and safety pros.",
+    "readingGoal": "7-8 min",
+    "heroImage": "grab-bars-hero.jpg",
+    "inlineImages": [
+      "grab-bar-installation-diagram.png",
+      "fall-mat-placement.png"
+    ],
+    "author": "Safety Specialist",
+    "status": "draft",
+    "linksTo": [
+      "safer-bathroom-occupational-therapy",
+      "fall-prevention-exercises-home",
+      "safe-transfers-home-health-aide"
+    ]
+  },
+  {
+    "title": "Pressure Ulcer Prevention at Home: Nurse and PT Tips",
+    "slug": "pressure-ulcer-prevention-home",
+    "category": "Safety & Equipment",
+    "tags": [
+      "skin-integrity",
+      "prevention",
+      "positioning"
+    ],
+    "targetKeyword": "pressure ulcer prevention at home",
+    "secondaryKeywords": [
+      "skin breakdown home care",
+      "turning schedule",
+      "support surfaces"
+    ],
+    "metaDescription": "Use simple positioning, nutrition, and support surfaces to prevent pressure injuries at home.",
+    "readingGoal": "9-11 min",
+    "heroImage": "pressure-ulcer-prevention-hero.jpg",
+    "inlineImages": [
+      "turning-schedule-chart.png",
+      "support-surface-guide.png"
+    ],
+    "author": "Safety Specialist",
+    "status": "draft",
+    "linksTo": [
+      "dme-essentials-home-care",
+      "safe-transfers-home-health-aide",
+      "chronic-condition-skilled-nursing"
+    ]
+  },
+  {
+    "title": "Mobility Aids: Picking the Right Walker for Home Use",
+    "slug": "walker-selection-guide",
+    "category": "Safety & Equipment",
+    "tags": [
+      "mobility",
+      "equipment",
+      "fall-prevention"
+    ],
+    "targetKeyword": "choose walker home",
+    "secondaryKeywords": [
+      "rolling walker vs standard",
+      "walker height adjustment",
+      "walker accessories"
+    ],
+    "metaDescription": "Compare walker styles, sizing, and accessories so your loved one stays safe and independent.",
+    "readingGoal": "7-8 min",
+    "heroImage": "walker-selection-hero.jpg",
+    "inlineImages": [
+      "walker-comparison-chart.png",
+      "walker-fit-diagram.png"
+    ],
+    "author": "Safety Specialist",
+    "status": "draft",
+    "linksTo": [
+      "balance-training-tools-pt",
+      "safe-transfers-home-health-aide",
+      "dme-essentials-home-care"
+    ]
+  },
+  {
+    "title": "Home Oxygen Safety Checklist for Families",
+    "slug": "home-oxygen-safety-checklist",
+    "category": "Safety & Equipment",
+    "tags": [
+      "oxygen",
+      "safety",
+      "respiratory"
+    ],
+    "targetKeyword": "home oxygen safety checklist",
+    "secondaryKeywords": [
+      "oxygen safety home",
+      "portable oxygen tips",
+      "fire safety oxygen"
+    ],
+    "metaDescription": "Keep oxygen use safe at home with storage tips, fire prevention, and simple daily checks.",
+    "readingGoal": "6-8 min",
+    "heroImage": "oxygen-safety-hero.jpg",
+    "inlineImages": [
+      "oxygen-safety-checklist.png",
+      "fire-safety-poster.png"
+    ],
+    "author": "Safety Specialist",
+    "status": "draft",
+    "linksTo": [
+      "dysphagia-management-at-home",
+      "emergency-preparedness-home-health",
+      "medicare-home-health-eligibility"
+    ]
+  },
+  {
+    "title": "Emergency Preparedness Plan for Homebound Patients",
+    "slug": "emergency-preparedness-home-health",
+    "category": "Safety & Equipment",
+    "tags": [
+      "emergency",
+      "planning",
+      "safety"
+    ],
+    "targetKeyword": "emergency preparedness home health",
+    "secondaryKeywords": [
+      "disaster kit home care",
+      "emergency plan seniors",
+      "home health emergency binder"
+    ],
+    "metaDescription": "Create a simple emergency plan covering supplies, contacts, and communication for power outages or storms.",
+    "readingGoal": "7-9 min",
+    "heroImage": "emergency-preparedness-hero.jpg",
+    "inlineImages": [
+      "emergency-kit-checklist.png",
+      "contact-tree-template.png"
+    ],
+    "author": "Safety Specialist",
+    "status": "draft",
+    "linksTo": [
+      "home-safety-evaluation-ot",
+      "home-oxygen-safety-checklist",
+      "dme-essentials-home-care"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "home-health-care-blog",
+  "version": "1.0.0",
+  "description": "SEO-optimized Eleventy blog for home health care services",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "node scripts/build-search-index.js && eleventy",
+    "generate": "node scripts/generate-from-plan.js"
+  },
+  "keywords": [
+    "home health care",
+    "eleventy",
+    "blog"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-rss": "^1.3.0",
+    "@11ty/eleventy-plugin-sitemap": "^0.4.1",
+    "lunr": "^2.3.9",
+    "luxon": "^3.3.0",
+    "markdown-it": "^13.0.1"
+  }
+}

@@ -1,0 +1,5 @@
+{% if breadcrumbList %}
+<script type="application/ld+json">
+{{ breadcrumbList | json | safe }}
+</script>
+{% endif %}

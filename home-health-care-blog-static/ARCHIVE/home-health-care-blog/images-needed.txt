@@ -1,0 +1,248 @@
+# Image Manifest
+
+## Site Assets
+logo.svg — 320x80 — Alt: Wordmark for Home Health Care Services Blog
+social-share-default.jpg — 1200x630 — Alt: Family smiling with home health nurse
+favicon.ico — 32x32 — Alt: Dark background with caring hands icon
+icon-192.png — 192x192 — Alt: App icon featuring heart and home
+icon-512.png — 512x512 — Alt: Large app icon featuring heart and home
+
+## Skilled Nursing at Home: What to Expect, Costs, and Medicare Coverage (skilled-nursing-at-home-guide)
+skilled-nursing-hero.jpg — 1600x900 — Alt: Clinician supporting family during skilled nursing at home.
+medicare-eligibility-diagram.png — 1200x800 — Alt: Visual aid for skilled nursing at home.
+wound-care-steps-illustration.png — 1200x800 — Alt: Visual aid for skilled nursing at home.
+
+## Wound Care at Home: Dressing Types, Red Flags, and When to Call the Nurse (wound-care-at-home-basics)
+wound-care-dressing-hero.jpg — 1600x900 — Alt: Clinician supporting family during wound care at home.
+wound-stages-chart.png — 1200x800 — Alt: Visual aid for wound care at home.
+dressing-change-supplies-photo.jpg — 1200x800 — Alt: Visual aid for wound care at home.
+
+## IV Therapy at Home: Safety Steps and How Nurses Prepare Families (home-iv-therapy-safety)
+iv-therapy-home-hero.jpg — 1600x900 — Alt: Clinician supporting family during home iv therapy.
+iv-setup-checklist.png — 1200x800 — Alt: Visual aid for home iv therapy.
+flush-technique-diagram.png — 1200x800 — Alt: Visual aid for home iv therapy.
+
+## Post-Op Care at Home Checklist: Nurse Tips for a Smooth Recovery (post-op-care-at-home-checklist)
+post-op-care-home-hero.jpg — 1600x900 — Alt: Clinician supporting family during post op care at home.
+incision-care-guide.png — 1200x800 — Alt: Visual aid for post op care at home.
+medication-tracker-template.png — 1200x800 — Alt: Visual aid for post op care at home.
+
+## Medication Management in Home Health Nursing: Safe Systems That Work (medication-management-home-health)
+medication-management-hero.jpg — 1600x900 — Alt: Clinician supporting family during home health medication management.
+medication-chart-sample.png — 1200x800 — Alt: Visual aid for home health medication management.
+pillbox-setup-photo.jpg — 1200x800 — Alt: Visual aid for home health medication management.
+
+## Managing Chronic Conditions with Skilled Nursing at Home (chronic-condition-skilled-nursing)
+chronic-care-skilled-nursing-hero.jpg — 1600x900 — Alt: Clinician supporting family during chronic disease management home health.
+vital-signs-log.png — 1200x800 — Alt: Visual aid for chronic disease management home health.
+symptom-tracking-wheel.png — 1200x800 — Alt: Visual aid for chronic disease management home health.
+
+## Fall Prevention at Home: PT-Led Balance Exercises You Can Start Today (fall-prevention-exercises-home)
+fall-prevention-pt-hero.jpg — 1600x900 — Alt: Clinician supporting family during fall prevention exercises for seniors.
+balance-exercise-sequence.png — 1200x800 — Alt: Visual aid for fall prevention exercises for seniors.
+home-safety-spot-check.png — 1200x800 — Alt: Visual aid for fall prevention exercises for seniors.
+
+## Gait Training After Joint Replacement: Home PT Roadmap (gait-training-after-joint-replacement)
+gait-training-hero.jpg — 1600x900 — Alt: Clinician supporting family during gait training after knee replacement.
+assistive-device-progressions.png — 1200x800 — Alt: Visual aid for gait training after knee replacement.
+step-training-photo.jpg — 1200x800 — Alt: Visual aid for gait training after knee replacement.
+
+## Home Physical Therapy After Stroke: Regaining Movement and Confidence (home-physical-therapy-after-stroke)
+stroke-pt-home-hero.jpg — 1600x900 — Alt: Clinician supporting family during home physical therapy stroke.
+stroke-rehab-phase-chart.png — 1200x800 — Alt: Visual aid for home physical therapy stroke.
+caregiver-support-photo.jpg — 1200x800 — Alt: Visual aid for home physical therapy stroke.
+
+## Orthopedic Rehab at Home: Getting Back on Your Feet (orthopedic-rehab-at-home)
+orthopedic-rehab-home-hero.jpg — 1600x900 — Alt: Clinician supporting family during orthopedic rehab at home.
+strength-progress-chart.png — 1200x800 — Alt: Visual aid for orthopedic rehab at home.
+ice-and-elevate-infographic.png — 1200x800 — Alt: Visual aid for orthopedic rehab at home.
+
+## Balance Training Tools PTs Recommend for Safer Homes (balance-training-tools-pt)
+balance-tools-hero.jpg — 1600x900 — Alt: Clinician supporting family during balance training tools for seniors.
+balance-toolkit-photo.jpg — 1200x800 — Alt: Visual aid for balance training tools for seniors.
+practice-schedule-template.png — 1200x800 — Alt: Visual aid for balance training tools for seniors.
+
+## Pain Management with Physical Therapy at Home (physical-therapy-pain-management)
+pt-pain-management-hero.jpg — 1600x900 — Alt: Clinician supporting family during physical therapy pain management at home.
+pain-journal-template.png — 1200x800 — Alt: Visual aid for physical therapy pain management at home.
+heat-vs-ice-guide.png — 1200x800 — Alt: Visual aid for physical therapy pain management at home.
+
+## Occupational Therapy at Home: Setting Up a Safer Bathroom (safer-bathroom-occupational-therapy)
+ot-bathroom-safety-hero.jpg — 1600x900 — Alt: Clinician supporting family during bathroom safety for elderly.
+grab-bar-placement-diagram.png — 1200x800 — Alt: Visual aid for bathroom safety for elderly.
+bathroom-safety-checklist.png — 1200x800 — Alt: Visual aid for bathroom safety for elderly.
+
+## Adaptive Equipment Checklist for Daily Living (adaptive-equipment-adl-checklist)
+adaptive-equipment-hero.jpg — 1600x900 — Alt: Clinician supporting family during adaptive equipment for daily living.
+adl-toolkit-photo.jpg — 1200x800 — Alt: Visual aid for adaptive equipment for daily living.
+equipment-comparison-chart.png — 1200x800 — Alt: Visual aid for adaptive equipment for daily living.
+
+## Home Safety Evaluation: OT Room-by-Room Guide (home-safety-evaluation-ot)
+ot-home-safety-hero.jpg — 1600x900 — Alt: Clinician supporting family during home safety evaluation occupational therapy.
+room-by-room-safety-map.png — 1200x800 — Alt: Visual aid for home safety evaluation occupational therapy.
+lighting-upgrade-guide.png — 1200x800 — Alt: Visual aid for home safety evaluation occupational therapy.
+
+## Stroke Recovery ADL Goals with OT Support (stroke-recovery-ot-goals)
+stroke-ot-recovery-hero.jpg — 1600x900 — Alt: Clinician supporting family during stroke recovery occupational therapy goals.
+adl-goal-tracker.png — 1200x800 — Alt: Visual aid for stroke recovery occupational therapy goals.
+caregiver-cueing-photo.jpg — 1200x800 — Alt: Visual aid for stroke recovery occupational therapy goals.
+
+## Energy Conservation Tips from Occupational Therapists (energy-conservation-ot-tips)
+energy-conservation-hero.jpg — 1600x900 — Alt: Clinician supporting family during energy conservation occupational therapy.
+pacing-strategy-chart.png — 1200x800 — Alt: Visual aid for energy conservation occupational therapy.
+rest-break-planner.png — 1200x800 — Alt: Visual aid for energy conservation occupational therapy.
+
+## Dementia-Friendly Home Modifications with OT Guidance (dementia-home-mods-ot)
+dementia-home-mods-hero.jpg — 1600x900 — Alt: Clinician supporting family during dementia home modifications.
+room-zones-illustration.png — 1200x800 — Alt: Visual aid for dementia home modifications.
+dementia-safety-signage.png — 1200x800 — Alt: Visual aid for dementia home modifications.
+
+## Speech Therapy for Post-Stroke Aphasia: Goals, Techniques, and Progress (aphasia-therapy-at-home)
+aphasia-therapy-hero.jpg — 1600x900 — Alt: Clinician supporting family during aphasia therapy at home.
+communication-board-sample.png — 1200x800 — Alt: Visual aid for aphasia therapy at home.
+aphasia-progress-chart.png — 1200x800 — Alt: Visual aid for aphasia therapy at home.
+
+## Managing Dysphagia at Home: Speech Therapist Tips (dysphagia-management-at-home)
+dysphagia-home-hero.jpg — 1600x900 — Alt: Clinician supporting family during dysphagia therapy at home.
+swallow-safety-checklist.png — 1200x800 — Alt: Visual aid for dysphagia therapy at home.
+food-texture-guide.png — 1200x800 — Alt: Visual aid for dysphagia therapy at home.
+
+## Cognitive-Linguistic Rehab Activities for Home Visits (cognitive-linguistic-rehab-home)
+cognitive-rehab-hero.jpg — 1600x900 — Alt: Clinician supporting family during cognitive linguistic therapy at home.
+memory-game-printable.png — 1200x800 — Alt: Visual aid for cognitive linguistic therapy at home.
+problem-solving-flowchart.png — 1200x800 — Alt: Visual aid for cognitive linguistic therapy at home.
+
+## Voice Therapy at Home for Parkinson's: Practical Daily Habits (voice-therapy-parkinsons-home)
+voice-therapy-parkinsons-hero.jpg — 1600x900 — Alt: Clinician supporting family during voice therapy parkinsons home.
+voice-exercise-sequence.png — 1200x800 — Alt: Visual aid for voice therapy parkinsons home.
+volume-tracking-chart.png — 1200x800 — Alt: Visual aid for voice therapy parkinsons home.
+
+## Family Communication Strategies with Speech Therapy Support (family-communication-speech-therapy)
+family-communication-hero.jpg — 1600x900 — Alt: Clinician supporting family during speech therapy family training.
+communication-cue-cards.png — 1200x800 — Alt: Visual aid for speech therapy family training.
+family-meeting-checklist.png — 1200x800 — Alt: Visual aid for speech therapy family training.
+
+## Telepractice Tips for Home Speech Therapy Sessions (telepractice-home-speech-therapy)
+telepractice-speech-hero.jpg — 1600x900 — Alt: Clinician supporting family during home speech therapy telepractice.
+telepractice-setup-diagram.png — 1200x800 — Alt: Visual aid for home speech therapy telepractice.
+tech-checklist-printable.png — 1200x800 — Alt: Visual aid for home speech therapy telepractice.
+
+## Caregiver Burnout: Signs, Self-Care Plan, and Getting Help (caregiver-burnout-help)
+caregiver-burnout-hero.jpg — 1600x900 — Alt: Clinician supporting family during caregiver burnout help.
+burnout-symptom-chart.png — 1200x800 — Alt: Visual aid for caregiver burnout help.
+self-care-planner.png — 1200x800 — Alt: Visual aid for caregiver burnout help.
+
+## Medical Social Worker Role in Care Coordination (medical-social-work-care-coordination)
+medical-social-work-hero.jpg — 1600x900 — Alt: Clinician supporting family during medical social worker home health.
+care-team-diagram.png — 1200x800 — Alt: Visual aid for medical social worker home health.
+resource-referral-flowchart.png — 1200x800 — Alt: Visual aid for medical social worker home health.
+
+## Planning for Advance Directives with a Social Worker (advance-directives-social-worker)
+advance-directives-hero.jpg — 1600x900 — Alt: Clinician supporting family during advance directives home health.
+conversation-starter-cards.png — 1200x800 — Alt: Visual aid for advance directives home health.
+forms-checklist.png — 1200x800 — Alt: Visual aid for advance directives home health.
+
+## Community Resources for Aging in Place: Social Worker Guide (community-resources-aging-in-place)
+aging-in-place-resources-hero.jpg — 1600x900 — Alt: Clinician supporting family during aging in place resources.
+resource-directory-template.png — 1200x800 — Alt: Visual aid for aging in place resources.
+transportation-options-chart.png — 1200x800 — Alt: Visual aid for aging in place resources.
+
+## Navigating Insurance Appeals with Medical Social Work (insurance-appeals-medical-social-work)
+insurance-appeals-hero.jpg — 1600x900 — Alt: Clinician supporting family during home health insurance appeal.
+appeal-letter-template.png — 1200x800 — Alt: Visual aid for home health insurance appeal.
+timeline-tracker.png — 1200x800 — Alt: Visual aid for home health insurance appeal.
+
+## Supporting Family Meetings in Home Health (family-meetings-home-health)
+family-meeting-hero.jpg — 1600x900 — Alt: Clinician supporting family during family meetings home health.
+meeting-agenda-template.png — 1200x800 — Alt: Visual aid for family meetings home health.
+ground-rules-card.png — 1200x800 — Alt: Visual aid for family meetings home health.
+
+## How Home Health Aides Support Dementia Care: Daily Routines That Work (dementia-home-health-aide)
+dementia-home-health-aide-hero.jpg — 1600x900 — Alt: Clinician supporting family during dementia home health aide.
+dementia-day-planner.png — 1200x800 — Alt: Visual aid for dementia home health aide.
+calming-activities-photo.jpg — 1200x800 — Alt: Visual aid for dementia home health aide.
+
+## Personal Care Routines: Bathing and Grooming Support at Home (personal-care-routines-home-health-aide)
+personal-care-routines-hero.jpg — 1600x900 — Alt: Clinician supporting family during home health aide bathing support.
+bathing-safety-checklist.png — 1200x800 — Alt: Visual aid for home health aide bathing support.
+grooming-supplies-photo.jpg — 1200x800 — Alt: Visual aid for home health aide bathing support.
+
+## Respite Care at Home: Scheduling Relief You Can Trust (respite-care-at-home-guide)
+respite-care-hero.jpg — 1600x900 — Alt: Clinician supporting family during respite care at home.
+respite-schedule-template.png — 1200x800 — Alt: Visual aid for respite care at home.
+handoff-checklist.png — 1200x800 — Alt: Visual aid for respite care at home.
+
+## Building Daily Routines with Home Health Aides (daily-routines-home-health-aide)
+daily-routine-aide-hero.jpg — 1600x900 — Alt: Clinician supporting family during daily routine home health aide.
+daily-routine-chart.png — 1200x800 — Alt: Visual aid for daily routine home health aide.
+task-priority-matrix.png — 1200x800 — Alt: Visual aid for daily routine home health aide.
+
+## Safety Lifting and Transfers with Home Health Aides (safe-transfers-home-health-aide)
+safe-transfers-hero.jpg — 1600x900 — Alt: Clinician supporting family during safe transfers home care.
+transfer-steps-diagram.png — 1200x800 — Alt: Visual aid for safe transfers home care.
+gait-belt-photo.jpg — 1200x800 — Alt: Visual aid for safe transfers home care.
+
+## Partnering with Aides for Medication Reminders (medication-reminders-home-health-aide)
+medication-reminders-hero.jpg — 1600x900 — Alt: Clinician supporting family during medication reminders home health aide.
+medication-reminder-card.png — 1200x800 — Alt: Visual aid for medication reminders home health aide.
+team-communication-flow.png — 1200x800 — Alt: Visual aid for medication reminders home health aide.
+
+## Medicare Home Health Eligibility: The Exact Checklist (with Examples) (medicare-home-health-eligibility)
+medicare-eligibility-hero.jpg — 1600x900 — Alt: Clinician supporting family during medicare home health eligibility.
+eligibility-checklist.png — 1200x800 — Alt: Visual aid for medicare home health eligibility.
+homebound-examples-chart.png — 1200x800 — Alt: Visual aid for medicare home health eligibility.
+
+## Home Health Care vs Nursing Home: Costs, Care Levels, and Who Qualifies (home-health-care-vs-nursing-home)
+home-care-vs-nursing-home-hero.jpg — 1600x900 — Alt: Clinician supporting family during home health care vs nursing home.
+cost-comparison-table.png — 1200x800 — Alt: Visual aid for home health care vs nursing home.
+care-levels-flowchart.png — 1200x800 — Alt: Visual aid for home health care vs nursing home.
+
+## Understanding the Plan of Care in Home Health (plan-of-care-home-health)
+plan-of-care-hero.jpg — 1600x900 — Alt: Clinician supporting family during plan of care home health.
+plan-of-care-sample.png — 1200x800 — Alt: Visual aid for plan of care home health.
+goal-tracking-template.png — 1200x800 — Alt: Visual aid for plan of care home health.
+
+## OASIS Basics for Families: What Happens During the Nurse Assessment? (oasis-basics-for-families)
+oasis-basics-hero.jpg — 1600x900 — Alt: Clinician supporting family during oasis assessment home health.
+oasis-section-cheatsheet.png — 1200x800 — Alt: Visual aid for oasis assessment home health.
+visit-prep-checklist.png — 1200x800 — Alt: Visual aid for oasis assessment home health.
+
+## Recertification Timeline for Home Health Services (home-health-recertification-timeline)
+recertification-timeline-hero.jpg — 1600x900 — Alt: Clinician supporting family during home health recertification.
+recertification-calendar.png — 1200x800 — Alt: Visual aid for home health recertification.
+documentation-checklist.png — 1200x800 — Alt: Visual aid for home health recertification.
+
+## Physician Face-to-Face Visits Explained for Home Health (physician-face-to-face-home-health)
+physician-face-to-face-hero.jpg — 1600x900 — Alt: Clinician supporting family during physician face to face home health.
+face-to-face-timeline.png — 1200x800 — Alt: Visual aid for physician face to face home health.
+visit-summary-template.png — 1200x800 — Alt: Visual aid for physician face to face home health.
+
+## Essential Durable Medical Equipment for Home Care (dme-essentials-home-care)
+dme-essentials-hero.jpg — 1600x900 — Alt: Clinician supporting family during durable medical equipment home care.
+dme-room-map.png — 1200x800 — Alt: Visual aid for durable medical equipment home care.
+equipment-order-form.png — 1200x800 — Alt: Visual aid for durable medical equipment home care.
+
+## Grab Bars and Fall Mats: Installing Safety Gear That Works (grab-bars-home-safety)
+grab-bars-hero.jpg — 1600x900 — Alt: Clinician supporting family during grab bars home safety.
+grab-bar-installation-diagram.png — 1200x800 — Alt: Visual aid for grab bars home safety.
+fall-mat-placement.png — 1200x800 — Alt: Visual aid for grab bars home safety.
+
+## Pressure Ulcer Prevention at Home: Nurse and PT Tips (pressure-ulcer-prevention-home)
+pressure-ulcer-prevention-hero.jpg — 1600x900 — Alt: Clinician supporting family during pressure ulcer prevention at home.
+turning-schedule-chart.png — 1200x800 — Alt: Visual aid for pressure ulcer prevention at home.
+support-surface-guide.png — 1200x800 — Alt: Visual aid for pressure ulcer prevention at home.
+
+## Mobility Aids: Picking the Right Walker for Home Use (walker-selection-guide)
+walker-selection-hero.jpg — 1600x900 — Alt: Clinician supporting family during choose walker home.
+walker-comparison-chart.png — 1200x800 — Alt: Visual aid for choose walker home.
+walker-fit-diagram.png — 1200x800 — Alt: Visual aid for choose walker home.
+
+## Home Oxygen Safety Checklist for Families (home-oxygen-safety-checklist)
+oxygen-safety-hero.jpg — 1600x900 — Alt: Clinician supporting family during home oxygen safety checklist.
+oxygen-safety-checklist.png — 1200x800 — Alt: Visual aid for home oxygen safety checklist.
+fire-safety-poster.png — 1200x800 — Alt: Visual aid for home oxygen safety checklist.
+
+## Emergency Preparedness Plan for Homebound Patients (emergency-preparedness-home-health)
+emergency-preparedness-hero.jpg — 1600x900 — Alt: Clinician supporting family during emergency preparedness home health.
+emergency-kit-checklist.png — 1200x800 — Alt: Visual aid for emergency preparedness home health.
+contact-tree-template.png — 1200x800 — Alt: Visual aid for emergency preparedness home health.

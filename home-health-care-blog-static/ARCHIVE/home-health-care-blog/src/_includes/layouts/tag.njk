@@ -1,0 +1,29 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+<section class="category-hero">
+  <div class="container">
+    <h1>Tag: {{ tag }}</h1>
+    <p>Articles organized by the "{{ tag }}" topic to help you go deeper.</p>
+  </div>
+</section>
+
+{% set pager = tagPagination or pagination %}
+<section class="feed container">
+  <div class="feed__grid">
+    {% for post in pager.items %}
+      {% include "partials/post-card.njk" with post %}
+    {% endfor %}
+  </div>
+
+  <nav class="pagination" aria-label="Pagination">
+    {% if pager.href.previous %}
+      <a class="pagination__link" rel="prev" href="{{ pager.href.previous }}">Previous</a>
+    {% endif %}
+    <span class="pagination__status">Page {{ pager.pageNumber + 1 }} of {{ pager.pages | length }}</span>
+    {% if pager.href.next %}
+      <a class="pagination__link" rel="next" href="{{ pager.href.next }}">Next</a>
+    {% endif %}
+  </nav>
+</section>
+{% endblock %}

@@ -1,0 +1,9 @@
+<div class="share-buttons" aria-label="Share this post">
+  <h2 class="share-buttons__title">Share this guide</h2>
+  <ul>
+    <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | trim('/') }}{{ page.url }}" target="_blank" rel="noopener">Facebook</a></li>
+    <li><a href="https://twitter.com/intent/tweet?url={{ site.url | trim('/') }}{{ page.url }}&text={{ title | urlencode }}" target="_blank" rel="noopener">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url | trim('/') }}{{ page.url }}&title={{ title | urlencode }}" target="_blank" rel="noopener">LinkedIn</a></li>
+    <li><a href="mailto:?subject={{ title | urlencode }}&body={{ site.url | trim('/') }}{{ page.url }}">Email</a></li>
+  </ul>
+</div>

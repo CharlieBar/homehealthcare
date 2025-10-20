@@ -1,0 +1,14 @@
+---
+layout: layouts/page.njk
+title: "Browse Home Health Care Categories"
+description: "Find home health care guidance by service area, including skilled nursing, therapy, Medicare planning, and safety."
+permalink: "/categories/"
+---
+<div class="grid grid--two">
+  {% for category in categories %}
+  <article class="card">
+    <h2><a href="/category/{{ category.slug }}/">{{ category.title }}</a></h2>
+    <p>{{ category.intro }}</p>
+  </article>
+  {% endfor %}
+</div>

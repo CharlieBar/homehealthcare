@@ -1,0 +1,5 @@
+{% if schemaBlogPosting %}
+<script type="application/ld+json">
+{{ schemaBlogPosting | json | safe }}
+</script>
+{% endif %}

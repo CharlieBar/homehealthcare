@@ -1,0 +1,6 @@
+[
+  { "title": "Home", "url": "/" },
+  { "title": "Categories", "url": "/categories/", "children": [] },
+  { "title": "About", "url": "/about/" },
+  { "title": "Contact", "url": "/contact/" }
+]

@@ -1,0 +1,34 @@
+{% set printed = [] %}
+{% set sameCount = 0 %}
+{% set otherCount = 0 %}
+{% set relatedCards = [] %}
+
+{% for item in collections.posts %}
+  {% if item.url != page.url and item.data.category == category and sameCount < 2 %}
+    {% set sameCount = sameCount + 1 %}
+    {% set printed = printed + [item.url] %}
+    {% set relatedCards = relatedCards + [item] %}
+  {% endif %}
+{% endfor %}
+
+{% for item in collections.posts %}
+  {% if item.url != page.url and item.data.category != category and otherCount < 2 %}
+    {% set overlap = (tags or []) | intersect(item.data.tags or []) %}
+    {% if overlap | length > 0 and item.url not in printed %}
+      {% set otherCount = otherCount + 1 %}
+      {% set printed = printed + [item.url] %}
+      {% set relatedCards = relatedCards + [item] %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if relatedCards | length %}
+<section class="related-posts" aria-label="Related posts">
+  <h2>Related Posts</h2>
+  <div class="related-posts__grid">
+    {% for item in relatedCards %}
+      {% include "partials/post-card.njk" with item %}
+    {% endfor %}
+  </div>
+</section>
+{% endif %}

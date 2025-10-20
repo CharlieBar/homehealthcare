@@ -1,0 +1,25 @@
+[build]
+command = "npm run build"
+publish = "_site"
+
+[build.environment]
+NODE_VERSION = "18"
+
+[[plugins]]
+package = "@netlify/plugin-lighthouse"
+
+[[headers]]
+for = "/*"
+[headers.values]
+Referrer-Policy = "strict-origin-when-cross-origin"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "SAMEORIGIN"
+Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+Permissions-Policy = "geolocation=(self), microphone=(), camera=()"
+Content-Security-Policy = "default-src 'self'; img-src 'self' data:; script-src 'self'; style-src 'self'; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'self'"
+
+[[redirects]]
+from = "/:splat/"
+to = "/:splat"
+status = 301
+force = true

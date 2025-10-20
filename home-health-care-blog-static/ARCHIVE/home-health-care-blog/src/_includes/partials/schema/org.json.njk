@@ -1,0 +1,16 @@
+<script type="application/ld+json">
+{{ {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": site.name,
+  "url": site.url,
+  "logo": site.url + '/social-share-default.jpg',
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": site.phone,
+    "contactType": "customer service",
+    "areaServed": "US",
+    "availableLanguage": "English"
+  }
+} | json | safe }}
+</script>

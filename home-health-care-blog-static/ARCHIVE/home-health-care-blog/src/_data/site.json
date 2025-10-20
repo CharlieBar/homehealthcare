@@ -1,0 +1,22 @@
+{
+  "name": "Home Health Care Services Blog",
+  "url": "https://example.com",
+  "language": "en",
+  "description": "Plain-language guides to home health care services, Medicare coverage, and in-home safety.",
+  "author": "Home Health Care Services Editorial Team",
+  "email": "hello@example.com",
+  "phone": "1-800-555-0199",
+  "address": {
+    "street": "123 Care Lane",
+    "city": "Anywhere",
+    "state": "CA",
+    "zip": "94016",
+    "country": "USA"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/homehealthcare",
+    "linkedin": "https://www.linkedin.com/company/homehealthcare",
+    "twitter": "https://twitter.com/homehealthcare",
+    "youtube": "https://www.youtube.com/@homehealthcare"
+  }
+}

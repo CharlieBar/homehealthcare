@@ -1,0 +1,11 @@
+<article class="post-card">
+  <a class="post-card__link" href="{{ post.url }}">
+    <div class="post-card__image" aria-hidden="true"></div>
+    <div class="post-card__body">
+      <p class="post-card__category">{{ post.data.category }}</p>
+      <h2 class="post-card__title">{{ post.data.title }}</h2>
+      <p class="post-card__excerpt">{{ post.data.description }}</p>
+      <p class="post-card__meta">{{ post.date | readableDate }} · {{ post.data.readingGoal }}</p>
+    </div>
+  </a>
+</article>

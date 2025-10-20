@@ -1,0 +1,71 @@
+{% extends "layouts/base.njk" %}
+
+{% block content %}
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+  {% set breadcrumbList = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": site.url },
+      {"@type": "ListItem", "position": 2, "name": category, "item": site.url + '/category/' + category | slug + '/'},
+      {"@type": "ListItem", "position": 3, "name": title, "item": site.url + page.url }
+    ]
+  } %}
+  {% set schemaBlogPosting = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": title,
+    "description": description,
+    "datePublished": date | isoDate,
+    "dateModified": updated | isoDate,
+    "author": {
+      "@type": "Person",
+      "name": authors[author].name
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": site.name,
+      "logo": {
+        "@type": "ImageObject",
+        "url": site.url + '/social-share-default.jpg'
+      }
+    },
+    "image": site.url + '/images/' + heroImage,
+    "mainEntityOfPage": site.url + page.url
+  } %}
+
+  <header class="post__header">
+    {% include "partials/breadcrumbs.njk" %}
+    <p class="post__meta">{{ category }} · {{ date | readableDate }} · {{ readingGoal }}</p>
+    <h1 class="post__title" itemprop="headline">{{ title }}</h1>
+    <p class="post__dek">{{ description }}</p>
+    <div class="post__byline">
+      <div>
+        <p><strong>{{ authors[author].name }}</strong></p>
+        <p>{{ authors[author].role }}</p>
+      </div>
+      <p class="post__clinician">Clinician Review: {{ clinicianReview }}</p>
+    </div>
+    <figure class="post__hero" role="img" aria-label="Hero image placeholder for {{ title }}">
+      <div class="image-placeholder"></div>
+    </figure>
+    <p class="post__note">Estimated reading time: {{ readingGoal }}</p>
+  </header>
+
+  <div class="post__body" itemprop="articleBody">
+    {{ content | safe }}
+  </div>
+
+  <footer class="post__footer">
+    {% include "partials/share-buttons.njk" %}
+    <nav class="post__pager" aria-label="Article navigation">
+      {% if pagination.previous %}
+        <a class="post__pager-link" rel="prev" href="{{ pagination.previous.url }}">← {{ pagination.previous.data.title }}</a>
+      {% endif %}
+      {% if pagination.next %}
+        <a class="post__pager-link" rel="next" href="{{ pagination.next.url }}">{{ pagination.next.data.title }} →</a>
+      {% endif %}
+    </nav>
+  </footer>
+</article>
+{% endblock %}

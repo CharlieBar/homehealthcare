@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.homehealthcareservices.example/static/sitemap.xml

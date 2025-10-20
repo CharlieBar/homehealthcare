@@ -1,0 +1,74 @@
+{
+  "Staff Clinician": {
+    "name": "Staff Clinician",
+    "role": "RN Case Manager",
+    "bio": "Registered nurse specializing in Medicare-certified home health care for complex medical needs.",
+    "avatar": "/images/author-staff-clinician.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/staffclinician"
+    }
+  },
+  "Lead Physical Therapist": {
+    "name": "Lead Physical Therapist",
+    "role": "PT, DPT",
+    "bio": "Doctor of Physical Therapy helping older adults stay steady, active, and confident at home.",
+    "avatar": "/images/author-physical-therapist.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/leadphysicaltherapist"
+    }
+  },
+  "Lead Occupational Therapist": {
+    "name": "Lead Occupational Therapist",
+    "role": "OTR/L",
+    "bio": "Occupational therapist focused on adaptive equipment, home safety, and dementia-friendly routines.",
+    "avatar": "/images/author-occupational-therapist.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/leadoccupationaltherapist"
+    }
+  },
+  "Speech-Language Pathologist": {
+    "name": "Speech-Language Pathologist",
+    "role": "CCC-SLP",
+    "bio": "Speech therapist providing accessible coaching for speech, voice, and swallowing at home.",
+    "avatar": "/images/author-slp.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/speechpathologist"
+    }
+  },
+  "Medical Social Worker": {
+    "name": "Medical Social Worker",
+    "role": "MSW, LCSW",
+    "bio": "Licensed clinical social worker guiding families through care planning, resources, and emotional support.",
+    "avatar": "/images/author-social-worker.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/medicalsocialworker"
+    }
+  },
+  "Home Health Aide Supervisor": {
+    "name": "Home Health Aide Supervisor",
+    "role": "CNA Trainer",
+    "bio": "Certified nursing assistant trainer helping aides deliver compassionate daily care in the home.",
+    "avatar": "/images/author-hha-supervisor.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/homehealthsupervisor"
+    }
+  },
+  "Care Planning Nurse": {
+    "name": "Care Planning Nurse",
+    "role": "RN Clinical Manager",
+    "bio": "Clinical manager translating Medicare rules into clear next steps for patients and families.",
+    "avatar": "/images/author-care-planning-nurse.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/careplanningnurse"
+    }
+  },
+  "Safety Specialist": {
+    "name": "Safety Specialist",
+    "role": "DME Coordinator",
+    "bio": "Durable medical equipment coordinator focused on safe mobility and emergency readiness at home.",
+    "avatar": "/images/author-safety-specialist.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/safetyspecialist"
+    }
+  }
+}

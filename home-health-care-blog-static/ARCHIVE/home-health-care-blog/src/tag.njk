@@ -1,0 +1,21 @@
+---
+layout: layouts/tag.njk
+pagination:
+  data: collections.tagPages
+  size: 1
+  alias: tagPage
+permalink: "/tag/{{ tagPage.slug }}/{% if tagPage.pageNumber > 0 %}page/{{ tagPage.pageNumber + 1 }}/{% endif %}"
+title: "Tag"
+description: "Tagged home health insights."
+---
+{% set tag = tagPage.tag %}
+{% set totalPages = tagPage.totalPages %}
+{% set tagPagination = {
+  items: tagPage.posts,
+  pageNumber: tagPage.pageNumber,
+  pages: range(0, totalPages),
+  href: {
+    previous: tagPage.pageNumber > 0 ? '/tag/' + tagPage.slug + (tagPage.pageNumber > 1 ? '/page/' + tagPage.pageNumber + '/' : '/') : null,
+    next: tagPage.pageNumber < totalPages - 1 ? '/tag/' + tagPage.slug + '/page/' + (tagPage.pageNumber + 2) + '/' : null
+  }
+} %}

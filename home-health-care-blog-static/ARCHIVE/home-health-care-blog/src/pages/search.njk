@@ -1,0 +1,14 @@
+---
+layout: layouts/page.njk
+title: "Search Home Health Guides"
+description: "Find home health care articles by keyword, condition, or service."
+permalink: "/search/"
+---
+<form data-search-form class="search-form" role="search">
+  <label class="visually-hidden" for="search-input">Search for articles</label>
+  <input id="search-input" data-search-input type="search" placeholder="Search skilled nursing, therapy, Medicare..." required>
+  <button type="submit">Search</button>
+</form>
+<div data-search-results aria-live="polite" class="mt-lg"></div>
+<script src="/assets/js/vendor/lunr.js" defer></script>
+<script src="/assets/js/search.js" defer></script>

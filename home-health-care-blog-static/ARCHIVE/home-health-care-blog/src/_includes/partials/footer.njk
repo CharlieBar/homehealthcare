@@ -1,0 +1,26 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="container site-footer__grid">
+    <div>
+      <h2>About</h2>
+      <p>We deliver Medicare-certified home health nursing, therapy, and social work for families across the Bay Area.</p>
+      <p>Email <a href="mailto:{{ site.email }}">{{ site.email }}</a> or call <a href="tel:{{ site.phone }}">{{ site.phone }}</a>.</p>
+    </div>
+    <div>
+      <h2>Explore</h2>
+      <ul>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2>Connect</h2>
+      <ul>
+        <li><a href="{{ site.social.facebook }}">Facebook</a></li>
+        <li><a href="{{ site.social.linkedin }}">LinkedIn</a></li>
+        <li><a href="{{ site.social.youtube }}">YouTube</a></li>
+      </ul>
+    </div>
+  </div>
+  <p class="site-footer__copy">&copy; {% year %} {{ site.name }}. All rights reserved.</p>
+</footer>

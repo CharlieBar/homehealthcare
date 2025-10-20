@@ -1,0 +1,246 @@
+Sitewide Assets
+logo.svg | 320x96 | alt="Home health care services logo"
+social-share-default.jpg | 1200x630 | alt="Smiling clinician supporting older adult at home"
+favicon.ico | 32x32 | alt="Site favicon"
+app-icon-192.png | 192x192 | alt="App icon"
+app-icon-512.png | 512x512 | alt="App icon large"
+
+Skilled Nursing at Home: What to Expect, Costs, and Medicare Coverage
+skilled-nursing-hero.jpg | 1600x900 | alt="Skilled Nursing at Home: What to Expect, Costs, and Medicare Coverage hero image"
+medicare-eligibility-diagram.png | 1200x800 | alt="Diagram supporting skilled nursing at home"
+wound-care-steps-illustration.png | 1200x800 | alt="Diagram supporting skilled nursing at home"
+
+Wound Care at Home: Dressing Types, Red Flags, and When to Call the Nurse
+wound-care-dressing-hero.jpg | 1600x900 | alt="Wound Care at Home: Dressing Types, Red Flags, and When to Call the Nurse hero image"
+wound-stages-chart.png | 1200x800 | alt="Diagram supporting wound care at home"
+dressing-change-supplies-photo.jpg | 1200x800 | alt="Diagram supporting wound care at home"
+
+IV Therapy at Home: Safety Steps and How Nurses Prepare Families
+iv-therapy-home-hero.jpg | 1600x900 | alt="IV Therapy at Home: Safety Steps and How Nurses Prepare Families hero image"
+iv-setup-checklist.png | 1200x800 | alt="Diagram supporting home iv therapy"
+flush-technique-diagram.png | 1200x800 | alt="Diagram supporting home iv therapy"
+
+Post-Op Care at Home Checklist: Nurse Tips for a Smooth Recovery
+post-op-care-home-hero.jpg | 1600x900 | alt="Post-Op Care at Home Checklist: Nurse Tips for a Smooth Recovery hero image"
+incision-care-guide.png | 1200x800 | alt="Diagram supporting post op care at home"
+medication-tracker-template.png | 1200x800 | alt="Diagram supporting post op care at home"
+
+Medication Management in Home Health Nursing: Safe Systems That Work
+medication-management-hero.jpg | 1600x900 | alt="Medication Management in Home Health Nursing: Safe Systems That Work hero image"
+medication-chart-sample.png | 1200x800 | alt="Diagram supporting home health medication management"
+pillbox-setup-photo.jpg | 1200x800 | alt="Diagram supporting home health medication management"
+
+Managing Chronic Conditions with Skilled Nursing at Home
+chronic-care-skilled-nursing-hero.jpg | 1600x900 | alt="Managing Chronic Conditions with Skilled Nursing at Home hero image"
+vital-signs-log.png | 1200x800 | alt="Diagram supporting chronic disease management home health"
+symptom-tracking-wheel.png | 1200x800 | alt="Diagram supporting chronic disease management home health"
+
+Fall Prevention at Home: PT-Led Balance Exercises You Can Start Today
+fall-prevention-pt-hero.jpg | 1600x900 | alt="Fall Prevention at Home: PT-Led Balance Exercises You Can Start Today hero image"
+balance-exercise-sequence.png | 1200x800 | alt="Diagram supporting fall prevention exercises for seniors"
+home-safety-spot-check.png | 1200x800 | alt="Diagram supporting fall prevention exercises for seniors"
+
+Gait Training After Joint Replacement: Home PT Roadmap
+gait-training-hero.jpg | 1600x900 | alt="Gait Training After Joint Replacement: Home PT Roadmap hero image"
+assistive-device-progressions.png | 1200x800 | alt="Diagram supporting gait training after knee replacement"
+step-training-photo.jpg | 1200x800 | alt="Diagram supporting gait training after knee replacement"
+
+Home Physical Therapy After Stroke: Regaining Movement and Confidence
+stroke-pt-home-hero.jpg | 1600x900 | alt="Home Physical Therapy After Stroke: Regaining Movement and Confidence hero image"
+stroke-rehab-phase-chart.png | 1200x800 | alt="Diagram supporting home physical therapy stroke"
+caregiver-support-photo.jpg | 1200x800 | alt="Diagram supporting home physical therapy stroke"
+
+Orthopedic Rehab at Home: Getting Back on Your Feet
+orthopedic-rehab-home-hero.jpg | 1600x900 | alt="Orthopedic Rehab at Home: Getting Back on Your Feet hero image"
+strength-progress-chart.png | 1200x800 | alt="Diagram supporting orthopedic rehab at home"
+ice-and-elevate-infographic.png | 1200x800 | alt="Diagram supporting orthopedic rehab at home"
+
+Balance Training Tools PTs Recommend for Safer Homes
+balance-tools-hero.jpg | 1600x900 | alt="Balance Training Tools PTs Recommend for Safer Homes hero image"
+balance-toolkit-photo.jpg | 1200x800 | alt="Diagram supporting balance training tools for seniors"
+practice-schedule-template.png | 1200x800 | alt="Diagram supporting balance training tools for seniors"
+
+Pain Management with Physical Therapy at Home
+pt-pain-management-hero.jpg | 1600x900 | alt="Pain Management with Physical Therapy at Home hero image"
+pain-journal-template.png | 1200x800 | alt="Diagram supporting physical therapy pain management at home"
+heat-vs-ice-guide.png | 1200x800 | alt="Diagram supporting physical therapy pain management at home"
+
+Occupational Therapy at Home: Setting Up a Safer Bathroom
+ot-bathroom-safety-hero.jpg | 1600x900 | alt="Occupational Therapy at Home: Setting Up a Safer Bathroom hero image"
+grab-bar-placement-diagram.png | 1200x800 | alt="Diagram supporting bathroom safety for elderly"
+bathroom-safety-checklist.png | 1200x800 | alt="Diagram supporting bathroom safety for elderly"
+
+Adaptive Equipment Checklist for Daily Living
+adaptive-equipment-hero.jpg | 1600x900 | alt="Adaptive Equipment Checklist for Daily Living hero image"
+adl-toolkit-photo.jpg | 1200x800 | alt="Diagram supporting adaptive equipment for daily living"
+equipment-comparison-chart.png | 1200x800 | alt="Diagram supporting adaptive equipment for daily living"
+
+Home Safety Evaluation: OT Room-by-Room Guide
+ot-home-safety-hero.jpg | 1600x900 | alt="Home Safety Evaluation: OT Room-by-Room Guide hero image"
+room-by-room-safety-map.png | 1200x800 | alt="Diagram supporting home safety evaluation occupational therapy"
+lighting-upgrade-guide.png | 1200x800 | alt="Diagram supporting home safety evaluation occupational therapy"
+
+Stroke Recovery ADL Goals with OT Support
+stroke-ot-recovery-hero.jpg | 1600x900 | alt="Stroke Recovery ADL Goals with OT Support hero image"
+adl-goal-tracker.png | 1200x800 | alt="Diagram supporting stroke recovery occupational therapy goals"
+caregiver-cueing-photo.jpg | 1200x800 | alt="Diagram supporting stroke recovery occupational therapy goals"
+
+Energy Conservation Tips from Occupational Therapists
+energy-conservation-hero.jpg | 1600x900 | alt="Energy Conservation Tips from Occupational Therapists hero image"
+pacing-strategy-chart.png | 1200x800 | alt="Diagram supporting energy conservation occupational therapy"
+rest-break-planner.png | 1200x800 | alt="Diagram supporting energy conservation occupational therapy"
+
+Dementia-Friendly Home Modifications with OT Guidance
+dementia-home-mods-hero.jpg | 1600x900 | alt="Dementia-Friendly Home Modifications with OT Guidance hero image"
+room-zones-illustration.png | 1200x800 | alt="Diagram supporting dementia home modifications"
+dementia-safety-signage.png | 1200x800 | alt="Diagram supporting dementia home modifications"
+
+Speech Therapy for Post-Stroke Aphasia: Goals, Techniques, and Progress
+aphasia-therapy-hero.jpg | 1600x900 | alt="Speech Therapy for Post-Stroke Aphasia: Goals, Techniques, and Progress hero image"
+communication-board-sample.png | 1200x800 | alt="Diagram supporting aphasia therapy at home"
+aphasia-progress-chart.png | 1200x800 | alt="Diagram supporting aphasia therapy at home"
+
+Managing Dysphagia at Home: Speech Therapist Tips
+dysphagia-home-hero.jpg | 1600x900 | alt="Managing Dysphagia at Home: Speech Therapist Tips hero image"
+swallow-safety-checklist.png | 1200x800 | alt="Diagram supporting dysphagia therapy at home"
+food-texture-guide.png | 1200x800 | alt="Diagram supporting dysphagia therapy at home"
+
+Cognitive-Linguistic Rehab Activities for Home Visits
+cognitive-rehab-hero.jpg | 1600x900 | alt="Cognitive-Linguistic Rehab Activities for Home Visits hero image"
+memory-game-printable.png | 1200x800 | alt="Diagram supporting cognitive linguistic therapy at home"
+problem-solving-flowchart.png | 1200x800 | alt="Diagram supporting cognitive linguistic therapy at home"
+
+Voice Therapy at Home for Parkinson's: Practical Daily Habits
+voice-therapy-parkinsons-hero.jpg | 1600x900 | alt="Voice Therapy at Home for Parkinson's: Practical Daily Habits hero image"
+voice-exercise-sequence.png | 1200x800 | alt="Diagram supporting voice therapy parkinsons home"
+volume-tracking-chart.png | 1200x800 | alt="Diagram supporting voice therapy parkinsons home"
+
+Family Communication Strategies with Speech Therapy Support
+family-communication-hero.jpg | 1600x900 | alt="Family Communication Strategies with Speech Therapy Support hero image"
+communication-cue-cards.png | 1200x800 | alt="Diagram supporting speech therapy family training"
+family-meeting-checklist.png | 1200x800 | alt="Diagram supporting speech therapy family training"
+
+Telepractice Tips for Home Speech Therapy Sessions
+telepractice-speech-hero.jpg | 1600x900 | alt="Telepractice Tips for Home Speech Therapy Sessions hero image"
+telepractice-setup-diagram.png | 1200x800 | alt="Diagram supporting home speech therapy telepractice"
+tech-checklist-printable.png | 1200x800 | alt="Diagram supporting home speech therapy telepractice"
+
+Caregiver Burnout: Signs, Self-Care Plan, and Getting Help
+caregiver-burnout-hero.jpg | 1600x900 | alt="Caregiver Burnout: Signs, Self-Care Plan, and Getting Help hero image"
+burnout-symptom-chart.png | 1200x800 | alt="Diagram supporting caregiver burnout help"
+self-care-planner.png | 1200x800 | alt="Diagram supporting caregiver burnout help"
+
+Medical Social Worker Role in Care Coordination
+medical-social-work-hero.jpg | 1600x900 | alt="Medical Social Worker Role in Care Coordination hero image"
+care-team-diagram.png | 1200x800 | alt="Diagram supporting medical social worker home health"
+resource-referral-flowchart.png | 1200x800 | alt="Diagram supporting medical social worker home health"
+
+Planning for Advance Directives with a Social Worker
+advance-directives-hero.jpg | 1600x900 | alt="Planning for Advance Directives with a Social Worker hero image"
+conversation-starter-cards.png | 1200x800 | alt="Diagram supporting advance directives home health"
+forms-checklist.png | 1200x800 | alt="Diagram supporting advance directives home health"
+
+Community Resources for Aging in Place: Social Worker Guide
+aging-in-place-resources-hero.jpg | 1600x900 | alt="Community Resources for Aging in Place: Social Worker Guide hero image"
+resource-directory-template.png | 1200x800 | alt="Diagram supporting aging in place resources"
+transportation-options-chart.png | 1200x800 | alt="Diagram supporting aging in place resources"
+
+Navigating Insurance Appeals with Medical Social Work
+insurance-appeals-hero.jpg | 1600x900 | alt="Navigating Insurance Appeals with Medical Social Work hero image"
+appeal-letter-template.png | 1200x800 | alt="Diagram supporting home health insurance appeal"
+timeline-tracker.png | 1200x800 | alt="Diagram supporting home health insurance appeal"
+
+Supporting Family Meetings in Home Health
+family-meeting-hero.jpg | 1600x900 | alt="Supporting Family Meetings in Home Health hero image"
+meeting-agenda-template.png | 1200x800 | alt="Diagram supporting family meetings home health"
+ground-rules-card.png | 1200x800 | alt="Diagram supporting family meetings home health"
+
+How Home Health Aides Support Dementia Care: Daily Routines That Work
+dementia-home-health-aide-hero.jpg | 1600x900 | alt="How Home Health Aides Support Dementia Care: Daily Routines That Work hero image"
+dementia-day-planner.png | 1200x800 | alt="Diagram supporting dementia home health aide"
+calming-activities-photo.jpg | 1200x800 | alt="Diagram supporting dementia home health aide"
+
+Personal Care Routines: Bathing and Grooming Support at Home
+personal-care-routines-hero.jpg | 1600x900 | alt="Personal Care Routines: Bathing and Grooming Support at Home hero image"
+bathing-safety-checklist.png | 1200x800 | alt="Diagram supporting home health aide bathing support"
+grooming-supplies-photo.jpg | 1200x800 | alt="Diagram supporting home health aide bathing support"
+
+Respite Care at Home: Scheduling Relief You Can Trust
+respite-care-hero.jpg | 1600x900 | alt="Respite Care at Home: Scheduling Relief You Can Trust hero image"
+respite-schedule-template.png | 1200x800 | alt="Diagram supporting respite care at home"
+handoff-checklist.png | 1200x800 | alt="Diagram supporting respite care at home"
+
+Building Daily Routines with Home Health Aides
+daily-routine-aide-hero.jpg | 1600x900 | alt="Building Daily Routines with Home Health Aides hero image"
+daily-routine-chart.png | 1200x800 | alt="Diagram supporting daily routine home health aide"
+task-priority-matrix.png | 1200x800 | alt="Diagram supporting daily routine home health aide"
+
+Safety Lifting and Transfers with Home Health Aides
+safe-transfers-hero.jpg | 1600x900 | alt="Safety Lifting and Transfers with Home Health Aides hero image"
+transfer-steps-diagram.png | 1200x800 | alt="Diagram supporting safe transfers home care"
+gait-belt-photo.jpg | 1200x800 | alt="Diagram supporting safe transfers home care"
+
+Partnering with Aides for Medication Reminders
+medication-reminders-hero.jpg | 1600x900 | alt="Partnering with Aides for Medication Reminders hero image"
+medication-reminder-card.png | 1200x800 | alt="Diagram supporting medication reminders home health aide"
+team-communication-flow.png | 1200x800 | alt="Diagram supporting medication reminders home health aide"
+
+Medicare Home Health Eligibility: The Exact Checklist (with Examples)
+medicare-eligibility-hero.jpg | 1600x900 | alt="Medicare Home Health Eligibility: The Exact Checklist (with Examples) hero image"
+eligibility-checklist.png | 1200x800 | alt="Diagram supporting medicare home health eligibility"
+homebound-examples-chart.png | 1200x800 | alt="Diagram supporting medicare home health eligibility"
+
+Home Health Care vs Nursing Home: Costs, Care Levels, and Who Qualifies
+home-care-vs-nursing-home-hero.jpg | 1600x900 | alt="Home Health Care vs Nursing Home: Costs, Care Levels, and Who Qualifies hero image"
+cost-comparison-table.png | 1200x800 | alt="Diagram supporting home health care vs nursing home"
+care-levels-flowchart.png | 1200x800 | alt="Diagram supporting home health care vs nursing home"
+
+Understanding the Plan of Care in Home Health
+plan-of-care-hero.jpg | 1600x900 | alt="Understanding the Plan of Care in Home Health hero image"
+plan-of-care-sample.png | 1200x800 | alt="Diagram supporting plan of care home health"
+goal-tracking-template.png | 1200x800 | alt="Diagram supporting plan of care home health"
+
+OASIS Basics for Families: What Happens During the Nurse Assessment?
+oasis-basics-hero.jpg | 1600x900 | alt="OASIS Basics for Families: What Happens During the Nurse Assessment? hero image"
+oasis-section-cheatsheet.png | 1200x800 | alt="Diagram supporting oasis assessment home health"
+visit-prep-checklist.png | 1200x800 | alt="Diagram supporting oasis assessment home health"
+
+Recertification Timeline for Home Health Services
+recertification-timeline-hero.jpg | 1600x900 | alt="Recertification Timeline for Home Health Services hero image"
+recertification-calendar.png | 1200x800 | alt="Diagram supporting home health recertification"
+documentation-checklist.png | 1200x800 | alt="Diagram supporting home health recertification"
+
+Physician Face-to-Face Visits Explained for Home Health
+physician-face-to-face-hero.jpg | 1600x900 | alt="Physician Face-to-Face Visits Explained for Home Health hero image"
+face-to-face-timeline.png | 1200x800 | alt="Diagram supporting physician face to face home health"
+visit-summary-template.png | 1200x800 | alt="Diagram supporting physician face to face home health"
+
+Essential Durable Medical Equipment for Home Care
+dme-essentials-hero.jpg | 1600x900 | alt="Essential Durable Medical Equipment for Home Care hero image"
+dme-room-map.png | 1200x800 | alt="Diagram supporting durable medical equipment home care"
+equipment-order-form.png | 1200x800 | alt="Diagram supporting durable medical equipment home care"
+
+Grab Bars and Fall Mats: Installing Safety Gear That Works
+grab-bars-hero.jpg | 1600x900 | alt="Grab Bars and Fall Mats: Installing Safety Gear That Works hero image"
+grab-bar-installation-diagram.png | 1200x800 | alt="Diagram supporting grab bars home safety"
+fall-mat-placement.png | 1200x800 | alt="Diagram supporting grab bars home safety"
+
+Pressure Ulcer Prevention at Home: Nurse and PT Tips
+pressure-ulcer-prevention-hero.jpg | 1600x900 | alt="Pressure Ulcer Prevention at Home: Nurse and PT Tips hero image"
+turning-schedule-chart.png | 1200x800 | alt="Diagram supporting pressure ulcer prevention at home"
+support-surface-guide.png | 1200x800 | alt="Diagram supporting pressure ulcer prevention at home"
+
+Mobility Aids: Picking the Right Walker for Home Use
+walker-selection-hero.jpg | 1600x900 | alt="Mobility Aids: Picking the Right Walker for Home Use hero image"
+walker-comparison-chart.png | 1200x800 | alt="Diagram supporting choose walker home"
+walker-fit-diagram.png | 1200x800 | alt="Diagram supporting choose walker home"
+
+Home Oxygen Safety Checklist for Families
+oxygen-safety-hero.jpg | 1600x900 | alt="Home Oxygen Safety Checklist for Families hero image"
+oxygen-safety-checklist.png | 1200x800 | alt="Diagram supporting home oxygen safety checklist"
+fire-safety-poster.png | 1200x800 | alt="Diagram supporting home oxygen safety checklist"
+
+Emergency Preparedness Plan for Homebound Patients
+emergency-preparedness-hero.jpg | 1600x900 | alt="Emergency Preparedness Plan for Homebound Patients hero image"
+emergency-kit-checklist.png | 1200x800 | alt="Diagram supporting emergency preparedness home health"
+contact-tree-template.png | 1200x800 | alt="Diagram supporting emergency preparedness home health"
